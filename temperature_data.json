@@ -1,0 +1,8004 @@
+{
+  "data": [
+    {
+      "celsius": -131.11,
+      "fahrenheit": -204
+    },
+    {
+      "celsius": 475.56,
+      "fahrenheit": 888
+    },
+    {
+      "celsius": -359.44,
+      "fahrenheit": -615
+    },
+    {
+      "celsius": 81.67,
+      "fahrenheit": 179
+    },
+    {
+      "celsius": -200.56,
+      "fahrenheit": -329
+    },
+    {
+      "celsius": 41.11,
+      "fahrenheit": 106
+    },
+    {
+      "celsius": 1.11,
+      "fahrenheit": 34
+    },
+    {
+      "celsius": -215.0,
+      "fahrenheit": -355
+    },
+    {
+      "celsius": 276.67,
+      "fahrenheit": 530
+    },
+    {
+      "celsius": -453.33,
+      "fahrenheit": -784
+    },
+    {
+      "celsius": 454.44,
+      "fahrenheit": 850
+    },
+    {
+      "celsius": 452.22,
+      "fahrenheit": 846
+    },
+    {
+      "celsius": -420.56,
+      "fahrenheit": -725
+    },
+    {
+      "celsius": -398.33,
+      "fahrenheit": -685
+    },
+    {
+      "celsius": 193.33,
+      "fahrenheit": 380
+    },
+    {
+      "celsius": 521.11,
+      "fahrenheit": 970
+    },
+    {
+      "celsius": -423.33,
+      "fahrenheit": -730
+    },
+    {
+      "celsius": -133.33,
+      "fahrenheit": -208
+    },
+    {
+      "celsius": 37.78,
+      "fahrenheit": 100
+    },
+    {
+      "celsius": 450.56,
+      "fahrenheit": 843
+    },
+    {
+      "celsius": -326.67,
+      "fahrenheit": -556
+    },
+    {
+      "celsius": 50.0,
+      "fahrenheit": 122
+    },
+    {
+      "celsius": 185.0,
+      "fahrenheit": 365
+    },
+    {
+      "celsius": 524.44,
+      "fahrenheit": 976
+    },
+    {
+      "celsius": 232.78,
+      "fahrenheit": 451
+    },
+    {
+      "celsius": -421.11,
+      "fahrenheit": -726
+    },
+    {
+      "celsius": -539.44,
+      "fahrenheit": -939
+    },
+    {
+      "celsius": -337.22,
+      "fahrenheit": -575
+    },
+    {
+      "celsius": -530.0,
+      "fahrenheit": -922
+    },
+    {
+      "celsius": -335.0,
+      "fahrenheit": -571
+    },
+    {
+      "celsius": 300.56,
+      "fahrenheit": 573
+    },
+    {
+      "celsius": 225.0,
+      "fahrenheit": 437
+    },
+    {
+      "celsius": -440.0,
+      "fahrenheit": -760
+    },
+    {
+      "celsius": -283.33,
+      "fahrenheit": -478
+    },
+    {
+      "celsius": 534.44,
+      "fahrenheit": 994
+    },
+    {
+      "celsius": 465.0,
+      "fahrenheit": 869
+    },
+    {
+      "celsius": 131.67,
+      "fahrenheit": 269
+    },
+    {
+      "celsius": 345.56,
+      "fahrenheit": 654
+    },
+    {
+      "celsius": -523.33,
+      "fahrenheit": -910
+    },
+    {
+      "celsius": 400.56,
+      "fahrenheit": 753
+    },
+    {
+      "celsius": 516.67,
+      "fahrenheit": 962
+    },
+    {
+      "celsius": 421.67,
+      "fahrenheit": 791
+    },
+    {
+      "celsius": -415.56,
+      "fahrenheit": -716
+    },
+    {
+      "celsius": -152.78,
+      "fahrenheit": -243
+    },
+    {
+      "celsius": -443.33,
+      "fahrenheit": -766
+    },
+    {
+      "celsius": -33.89,
+      "fahrenheit": -29
+    },
+    {
+      "celsius": 335.0,
+      "fahrenheit": 635
+    },
+    {
+      "celsius": 357.78,
+      "fahrenheit": 676
+    },
+    {
+      "celsius": -407.78,
+      "fahrenheit": -702
+    },
+    {
+      "celsius": 45.56,
+      "fahrenheit": 114
+    },
+    {
+      "celsius": -96.11,
+      "fahrenheit": -141
+    },
+    {
+      "celsius": -215.56,
+      "fahrenheit": -356
+    },
+    {
+      "celsius": -197.78,
+      "fahrenheit": -324
+    },
+    {
+      "celsius": 172.78,
+      "fahrenheit": 343
+    },
+    {
+      "celsius": -152.22,
+      "fahrenheit": -242
+    },
+    {
+      "celsius": -416.67,
+      "fahrenheit": -718
+    },
+    {
+      "celsius": 331.11,
+      "fahrenheit": 628
+    },
+    {
+      "celsius": -251.67,
+      "fahrenheit": -421
+    },
+    {
+      "celsius": -466.67,
+      "fahrenheit": -808
+    },
+    {
+      "celsius": -166.67,
+      "fahrenheit": -268
+    },
+    {
+      "celsius": -65.56,
+      "fahrenheit": -86
+    },
+    {
+      "celsius": -531.67,
+      "fahrenheit": -925
+    },
+    {
+      "celsius": 175.56,
+      "fahrenheit": 348
+    },
+    {
+      "celsius": 353.33,
+      "fahrenheit": 668
+    },
+    {
+      "celsius": 87.22,
+      "fahrenheit": 189
+    },
+    {
+      "celsius": 147.78,
+      "fahrenheit": 298
+    },
+    {
+      "celsius": -113.33,
+      "fahrenheit": -172
+    },
+    {
+      "celsius": -157.22,
+      "fahrenheit": -251
+    },
+    {
+      "celsius": -281.67,
+      "fahrenheit": -475
+    },
+    {
+      "celsius": -327.78,
+      "fahrenheit": -558
+    },
+    {
+      "celsius": 240.0,
+      "fahrenheit": 464
+    },
+    {
+      "celsius": -102.78,
+      "fahrenheit": -153
+    },
+    {
+      "celsius": -405.0,
+      "fahrenheit": -697
+    },
+    {
+      "celsius": 221.11,
+      "fahrenheit": 430
+    },
+    {
+      "celsius": -179.44,
+      "fahrenheit": -291
+    },
+    {
+      "celsius": -336.11,
+      "fahrenheit": -573
+    },
+    {
+      "celsius": 323.33,
+      "fahrenheit": 614
+    },
+    {
+      "celsius": -441.67,
+      "fahrenheit": -763
+    },
+    {
+      "celsius": -292.22,
+      "fahrenheit": -494
+    },
+    {
+      "celsius": 167.22,
+      "fahrenheit": 333
+    },
+    {
+      "celsius": 429.44,
+      "fahrenheit": 805
+    },
+    {
+      "celsius": -290.56,
+      "fahrenheit": -491
+    },
+    {
+      "celsius": -162.78,
+      "fahrenheit": -261
+    },
+    {
+      "celsius": -450.56,
+      "fahrenheit": -779
+    },
+    {
+      "celsius": -495.56,
+      "fahrenheit": -860
+    },
+    {
+      "celsius": -51.11,
+      "fahrenheit": -60
+    },
+    {
+      "celsius": -306.67,
+      "fahrenheit": -520
+    },
+    {
+      "celsius": -423.89,
+      "fahrenheit": -731
+    },
+    {
+      "celsius": 87.78,
+      "fahrenheit": 190
+    },
+    {
+      "celsius": 152.78,
+      "fahrenheit": 307
+    },
+    {
+      "celsius": -351.67,
+      "fahrenheit": -601
+    },
+    {
+      "celsius": 226.67,
+      "fahrenheit": 440
+    },
+    {
+      "celsius": -163.89,
+      "fahrenheit": -263
+    },
+    {
+      "celsius": 113.89,
+      "fahrenheit": 237
+    },
+    {
+      "celsius": -413.33,
+      "fahrenheit": -712
+    },
+    {
+      "celsius": -555.56,
+      "fahrenheit": -968
+    },
+    {
+      "celsius": -351.11,
+      "fahrenheit": -600
+    },
+    {
+      "celsius": 389.44,
+      "fahrenheit": 733
+    },
+    {
+      "celsius": -290.0,
+      "fahrenheit": -490
+    },
+    {
+      "celsius": 385.0,
+      "fahrenheit": 725
+    },
+    {
+      "celsius": 431.67,
+      "fahrenheit": 809
+    },
+    {
+      "celsius": -391.67,
+      "fahrenheit": -673
+    },
+    {
+      "celsius": -501.67,
+      "fahrenheit": -871
+    },
+    {
+      "celsius": 488.89,
+      "fahrenheit": 912
+    },
+    {
+      "celsius": -505.56,
+      "fahrenheit": -878
+    },
+    {
+      "celsius": 120.0,
+      "fahrenheit": 248
+    },
+    {
+      "celsius": 224.44,
+      "fahrenheit": 436
+    },
+    {
+      "celsius": 280.0,
+      "fahrenheit": 536
+    },
+    {
+      "celsius": -565.56,
+      "fahrenheit": -986
+    },
+    {
+      "celsius": 478.33,
+      "fahrenheit": 893
+    },
+    {
+      "celsius": -546.11,
+      "fahrenheit": -951
+    },
+    {
+      "celsius": 328.33,
+      "fahrenheit": 623
+    },
+    {
+      "celsius": -480.56,
+      "fahrenheit": -833
+    },
+    {
+      "celsius": -13.89,
+      "fahrenheit": 7
+    },
+    {
+      "celsius": 405.0,
+      "fahrenheit": 761
+    },
+    {
+      "celsius": -517.78,
+      "fahrenheit": -900
+    },
+    {
+      "celsius": 397.78,
+      "fahrenheit": 748
+    },
+    {
+      "celsius": 171.67,
+      "fahrenheit": 341
+    },
+    {
+      "celsius": -260.56,
+      "fahrenheit": -437
+    },
+    {
+      "celsius": -510.0,
+      "fahrenheit": -886
+    },
+    {
+      "celsius": 401.67,
+      "fahrenheit": 755
+    },
+    {
+      "celsius": 527.22,
+      "fahrenheit": 981
+    },
+    {
+      "celsius": -394.44,
+      "fahrenheit": -678
+    },
+    {
+      "celsius": -272.22,
+      "fahrenheit": -458
+    },
+    {
+      "celsius": 225.56,
+      "fahrenheit": 438
+    },
+    {
+      "celsius": 342.22,
+      "fahrenheit": 648
+    },
+    {
+      "celsius": -299.44,
+      "fahrenheit": -507
+    },
+    {
+      "celsius": -494.44,
+      "fahrenheit": -858
+    },
+    {
+      "celsius": -303.33,
+      "fahrenheit": -514
+    },
+    {
+      "celsius": -347.78,
+      "fahrenheit": -594
+    },
+    {
+      "celsius": -274.44,
+      "fahrenheit": -462
+    },
+    {
+      "celsius": 503.89,
+      "fahrenheit": 939
+    },
+    {
+      "celsius": -191.67,
+      "fahrenheit": -313
+    },
+    {
+      "celsius": -304.44,
+      "fahrenheit": -516
+    },
+    {
+      "celsius": -150.56,
+      "fahrenheit": -239
+    },
+    {
+      "celsius": -25.0,
+      "fahrenheit": -13
+    },
+    {
+      "celsius": -387.22,
+      "fahrenheit": -665
+    },
+    {
+      "celsius": -567.22,
+      "fahrenheit": -989
+    },
+    {
+      "celsius": -31.67,
+      "fahrenheit": -25
+    },
+    {
+      "celsius": -568.89,
+      "fahrenheit": -992
+    },
+    {
+      "celsius": 106.11,
+      "fahrenheit": 223
+    },
+    {
+      "celsius": -1.11,
+      "fahrenheit": 30
+    },
+    {
+      "celsius": -106.67,
+      "fahrenheit": -160
+    },
+    {
+      "celsius": 139.44,
+      "fahrenheit": 283
+    },
+    {
+      "celsius": -51.67,
+      "fahrenheit": -61
+    },
+    {
+      "celsius": 290.0,
+      "fahrenheit": 554
+    },
+    {
+      "celsius": 305.0,
+      "fahrenheit": 581
+    },
+    {
+      "celsius": 220.56,
+      "fahrenheit": 429
+    },
+    {
+      "celsius": -100.0,
+      "fahrenheit": -148
+    },
+    {
+      "celsius": -73.89,
+      "fahrenheit": -101
+    },
+    {
+      "celsius": 342.78,
+      "fahrenheit": 649
+    },
+    {
+      "celsius": -524.44,
+      "fahrenheit": -912
+    },
+    {
+      "celsius": -40.0,
+      "fahrenheit": -40
+    },
+    {
+      "celsius": 123.33,
+      "fahrenheit": 254
+    },
+    {
+      "celsius": 312.22,
+      "fahrenheit": 594
+    },
+    {
+      "celsius": -340.56,
+      "fahrenheit": -581
+    },
+    {
+      "celsius": -316.67,
+      "fahrenheit": -538
+    },
+    {
+      "celsius": -362.78,
+      "fahrenheit": -621
+    },
+    {
+      "celsius": -367.22,
+      "fahrenheit": -629
+    },
+    {
+      "celsius": -556.67,
+      "fahrenheit": -970
+    },
+    {
+      "celsius": 301.67,
+      "fahrenheit": 575
+    },
+    {
+      "celsius": 262.78,
+      "fahrenheit": 505
+    },
+    {
+      "celsius": -203.33,
+      "fahrenheit": -334
+    },
+    {
+      "celsius": -272.78,
+      "fahrenheit": -459
+    },
+    {
+      "celsius": -138.89,
+      "fahrenheit": -218
+    },
+    {
+      "celsius": 348.33,
+      "fahrenheit": 659
+    },
+    {
+      "celsius": -161.67,
+      "fahrenheit": -259
+    },
+    {
+      "celsius": -217.22,
+      "fahrenheit": -359
+    },
+    {
+      "celsius": 175.0,
+      "fahrenheit": 347
+    },
+    {
+      "celsius": -247.22,
+      "fahrenheit": -413
+    },
+    {
+      "celsius": 182.22,
+      "fahrenheit": 360
+    },
+    {
+      "celsius": -570.56,
+      "fahrenheit": -995
+    },
+    {
+      "celsius": -38.33,
+      "fahrenheit": -37
+    },
+    {
+      "celsius": 410.56,
+      "fahrenheit": 771
+    },
+    {
+      "celsius": 318.89,
+      "fahrenheit": 606
+    },
+    {
+      "celsius": 368.33,
+      "fahrenheit": 695
+    },
+    {
+      "celsius": -368.33,
+      "fahrenheit": -631
+    },
+    {
+      "celsius": 69.44,
+      "fahrenheit": 157
+    },
+    {
+      "celsius": -527.78,
+      "fahrenheit": -918
+    },
+    {
+      "celsius": -487.78,
+      "fahrenheit": -846
+    },
+    {
+      "celsius": 230.56,
+      "fahrenheit": 447
+    },
+    {
+      "celsius": 180.56,
+      "fahrenheit": 357
+    },
+    {
+      "celsius": 393.33,
+      "fahrenheit": 740
+    },
+    {
+      "celsius": 407.22,
+      "fahrenheit": 765
+    },
+    {
+      "celsius": 191.11,
+      "fahrenheit": 376
+    },
+    {
+      "celsius": 29.44,
+      "fahrenheit": 85
+    },
+    {
+      "celsius": -309.44,
+      "fahrenheit": -525
+    },
+    {
+      "celsius": -313.33,
+      "fahrenheit": -532
+    },
+    {
+      "celsius": 291.11,
+      "fahrenheit": 556
+    },
+    {
+      "celsius": -146.67,
+      "fahrenheit": -232
+    },
+    {
+      "celsius": 317.78,
+      "fahrenheit": 604
+    },
+    {
+      "celsius": 111.11,
+      "fahrenheit": 232
+    },
+    {
+      "celsius": 506.67,
+      "fahrenheit": 944
+    },
+    {
+      "celsius": 190.0,
+      "fahrenheit": 374
+    },
+    {
+      "celsius": -455.0,
+      "fahrenheit": -787
+    },
+    {
+      "celsius": -118.89,
+      "fahrenheit": -182
+    },
+    {
+      "celsius": 478.89,
+      "fahrenheit": 894
+    },
+    {
+      "celsius": 14.44,
+      "fahrenheit": 58
+    },
+    {
+      "celsius": 446.11,
+      "fahrenheit": 835
+    },
+    {
+      "celsius": 121.11,
+      "fahrenheit": 250
+    },
+    {
+      "celsius": -205.56,
+      "fahrenheit": -338
+    },
+    {
+      "celsius": -282.78,
+      "fahrenheit": -477
+    },
+    {
+      "celsius": -438.33,
+      "fahrenheit": -757
+    },
+    {
+      "celsius": -371.67,
+      "fahrenheit": -637
+    },
+    {
+      "celsius": 57.78,
+      "fahrenheit": 136
+    },
+    {
+      "celsius": -3.89,
+      "fahrenheit": 25
+    },
+    {
+      "celsius": -100.56,
+      "fahrenheit": -149
+    },
+    {
+      "celsius": 281.67,
+      "fahrenheit": 539
+    },
+    {
+      "celsius": 148.33,
+      "fahrenheit": 299
+    },
+    {
+      "celsius": -196.67,
+      "fahrenheit": -322
+    },
+    {
+      "celsius": -421.67,
+      "fahrenheit": -727
+    },
+    {
+      "celsius": -331.67,
+      "fahrenheit": -565
+    },
+    {
+      "celsius": -563.33,
+      "fahrenheit": -982
+    },
+    {
+      "celsius": -7.22,
+      "fahrenheit": 19
+    },
+    {
+      "celsius": -375.56,
+      "fahrenheit": -644
+    },
+    {
+      "celsius": -510.56,
+      "fahrenheit": -887
+    },
+    {
+      "celsius": 138.89,
+      "fahrenheit": 282
+    },
+    {
+      "celsius": -406.67,
+      "fahrenheit": -700
+    },
+    {
+      "celsius": 162.22,
+      "fahrenheit": 324
+    },
+    {
+      "celsius": 158.89,
+      "fahrenheit": 318
+    },
+    {
+      "celsius": 327.78,
+      "fahrenheit": 622
+    },
+    {
+      "celsius": 415.0,
+      "fahrenheit": 779
+    },
+    {
+      "celsius": 141.11,
+      "fahrenheit": 286
+    },
+    {
+      "celsius": 55.0,
+      "fahrenheit": 131
+    },
+    {
+      "celsius": 185.56,
+      "fahrenheit": 366
+    },
+    {
+      "celsius": 337.22,
+      "fahrenheit": 639
+    },
+    {
+      "celsius": -66.11,
+      "fahrenheit": -87
+    },
+    {
+      "celsius": 245.56,
+      "fahrenheit": 474
+    },
+    {
+      "celsius": 226.11,
+      "fahrenheit": 439
+    },
+    {
+      "celsius": 183.89,
+      "fahrenheit": 363
+    },
+    {
+      "celsius": -236.11,
+      "fahrenheit": -393
+    },
+    {
+      "celsius": 505.0,
+      "fahrenheit": 941
+    },
+    {
+      "celsius": 205.56,
+      "fahrenheit": 402
+    },
+    {
+      "celsius": 193.89,
+      "fahrenheit": 381
+    },
+    {
+      "celsius": -89.44,
+      "fahrenheit": -129
+    },
+    {
+      "celsius": 160.56,
+      "fahrenheit": 321
+    },
+    {
+      "celsius": 48.89,
+      "fahrenheit": 120
+    },
+    {
+      "celsius": 491.11,
+      "fahrenheit": 916
+    },
+    {
+      "celsius": -221.11,
+      "fahrenheit": -366
+    },
+    {
+      "celsius": -458.89,
+      "fahrenheit": -794
+    },
+    {
+      "celsius": -522.78,
+      "fahrenheit": -909
+    },
+    {
+      "celsius": -446.67,
+      "fahrenheit": -772
+    },
+    {
+      "celsius": -460.56,
+      "fahrenheit": -797
+    },
+    {
+      "celsius": 518.33,
+      "fahrenheit": 965
+    },
+    {
+      "celsius": 110.56,
+      "fahrenheit": 231
+    },
+    {
+      "celsius": 370.56,
+      "fahrenheit": 699
+    },
+    {
+      "celsius": 273.33,
+      "fahrenheit": 524
+    },
+    {
+      "celsius": -411.11,
+      "fahrenheit": -708
+    },
+    {
+      "celsius": 318.33,
+      "fahrenheit": 605
+    },
+    {
+      "celsius": -124.44,
+      "fahrenheit": -192
+    },
+    {
+      "celsius": 313.33,
+      "fahrenheit": 596
+    },
+    {
+      "celsius": 368.89,
+      "fahrenheit": 696
+    },
+    {
+      "celsius": 268.89,
+      "fahrenheit": 516
+    },
+    {
+      "celsius": -201.11,
+      "fahrenheit": -330
+    },
+    {
+      "celsius": 402.78,
+      "fahrenheit": 757
+    },
+    {
+      "celsius": 522.78,
+      "fahrenheit": 973
+    },
+    {
+      "celsius": -233.89,
+      "fahrenheit": -389
+    },
+    {
+      "celsius": -226.67,
+      "fahrenheit": -376
+    },
+    {
+      "celsius": -88.89,
+      "fahrenheit": -128
+    },
+    {
+      "celsius": -433.33,
+      "fahrenheit": -748
+    },
+    {
+      "celsius": -134.44,
+      "fahrenheit": -210
+    },
+    {
+      "celsius": -229.44,
+      "fahrenheit": -381
+    },
+    {
+      "celsius": -45.0,
+      "fahrenheit": -49
+    },
+    {
+      "celsius": -32.78,
+      "fahrenheit": -27
+    },
+    {
+      "celsius": -362.22,
+      "fahrenheit": -620
+    },
+    {
+      "celsius": 118.33,
+      "fahrenheit": 245
+    },
+    {
+      "celsius": -311.11,
+      "fahrenheit": -528
+    },
+    {
+      "celsius": 205.0,
+      "fahrenheit": 401
+    },
+    {
+      "celsius": 376.11,
+      "fahrenheit": 709
+    },
+    {
+      "celsius": 398.33,
+      "fahrenheit": 749
+    },
+    {
+      "celsius": -287.78,
+      "fahrenheit": -486
+    },
+    {
+      "celsius": -286.11,
+      "fahrenheit": -483
+    },
+    {
+      "celsius": -7.78,
+      "fahrenheit": 18
+    },
+    {
+      "celsius": -33.33,
+      "fahrenheit": -28
+    },
+    {
+      "celsius": -77.78,
+      "fahrenheit": -108
+    },
+    {
+      "celsius": -227.78,
+      "fahrenheit": -378
+    },
+    {
+      "celsius": -241.67,
+      "fahrenheit": -403
+    },
+    {
+      "celsius": 326.11,
+      "fahrenheit": 619
+    },
+    {
+      "celsius": 40.0,
+      "fahrenheit": 104
+    },
+    {
+      "celsius": -48.33,
+      "fahrenheit": -55
+    },
+    {
+      "celsius": 151.67,
+      "fahrenheit": 305
+    },
+    {
+      "celsius": -387.78,
+      "fahrenheit": -666
+    },
+    {
+      "celsius": 373.33,
+      "fahrenheit": 704
+    },
+    {
+      "celsius": 77.22,
+      "fahrenheit": 171
+    },
+    {
+      "celsius": -348.89,
+      "fahrenheit": -596
+    },
+    {
+      "celsius": -108.33,
+      "fahrenheit": -163
+    },
+    {
+      "celsius": 399.44,
+      "fahrenheit": 751
+    },
+    {
+      "celsius": -493.33,
+      "fahrenheit": -856
+    },
+    {
+      "celsius": -340.0,
+      "fahrenheit": -580
+    },
+    {
+      "celsius": -82.78,
+      "fahrenheit": -117
+    },
+    {
+      "celsius": 241.67,
+      "fahrenheit": 467
+    },
+    {
+      "celsius": -455.56,
+      "fahrenheit": -788
+    },
+    {
+      "celsius": -63.33,
+      "fahrenheit": -82
+    },
+    {
+      "celsius": -345.56,
+      "fahrenheit": -590
+    },
+    {
+      "celsius": 90.56,
+      "fahrenheit": 195
+    },
+    {
+      "celsius": -170.56,
+      "fahrenheit": -275
+    },
+    {
+      "celsius": -426.67,
+      "fahrenheit": -736
+    },
+    {
+      "celsius": 173.89,
+      "fahrenheit": 345
+    },
+    {
+      "celsius": -377.22,
+      "fahrenheit": -647
+    },
+    {
+      "celsius": 456.11,
+      "fahrenheit": 853
+    },
+    {
+      "celsius": -382.22,
+      "fahrenheit": -656
+    },
+    {
+      "celsius": 255.0,
+      "fahrenheit": 491
+    },
+    {
+      "celsius": -176.67,
+      "fahrenheit": -286
+    },
+    {
+      "celsius": -492.78,
+      "fahrenheit": -855
+    },
+    {
+      "celsius": 228.33,
+      "fahrenheit": 443
+    },
+    {
+      "celsius": 82.78,
+      "fahrenheit": 181
+    },
+    {
+      "celsius": -261.67,
+      "fahrenheit": -439
+    },
+    {
+      "celsius": 12.78,
+      "fahrenheit": 55
+    },
+    {
+      "celsius": 396.11,
+      "fahrenheit": 745
+    },
+    {
+      "celsius": 183.33,
+      "fahrenheit": 362
+    },
+    {
+      "celsius": 508.33,
+      "fahrenheit": 947
+    },
+    {
+      "celsius": 7.22,
+      "fahrenheit": 45
+    },
+    {
+      "celsius": -103.33,
+      "fahrenheit": -154
+    },
+    {
+      "celsius": -385.56,
+      "fahrenheit": -662
+    },
+    {
+      "celsius": -425.56,
+      "fahrenheit": -734
+    },
+    {
+      "celsius": 438.89,
+      "fahrenheit": 822
+    },
+    {
+      "celsius": -123.33,
+      "fahrenheit": -190
+    },
+    {
+      "celsius": 394.44,
+      "fahrenheit": 742
+    },
+    {
+      "celsius": 21.11,
+      "fahrenheit": 70
+    },
+    {
+      "celsius": -158.89,
+      "fahrenheit": -254
+    },
+    {
+      "celsius": -372.78,
+      "fahrenheit": -639
+    },
+    {
+      "celsius": 231.11,
+      "fahrenheit": 448
+    },
+    {
+      "celsius": -430.56,
+      "fahrenheit": -743
+    },
+    {
+      "celsius": -165.56,
+      "fahrenheit": -266
+    },
+    {
+      "celsius": -164.44,
+      "fahrenheit": -264
+    },
+    {
+      "celsius": -451.67,
+      "fahrenheit": -781
+    },
+    {
+      "celsius": 181.11,
+      "fahrenheit": 358
+    },
+    {
+      "celsius": 6.67,
+      "fahrenheit": 44
+    },
+    {
+      "celsius": -119.44,
+      "fahrenheit": -183
+    },
+    {
+      "celsius": -565.0,
+      "fahrenheit": -985
+    },
+    {
+      "celsius": -447.78,
+      "fahrenheit": -774
+    },
+    {
+      "celsius": 51.67,
+      "fahrenheit": 125
+    },
+    {
+      "celsius": 436.67,
+      "fahrenheit": 818
+    },
+    {
+      "celsius": -190.56,
+      "fahrenheit": -311
+    },
+    {
+      "celsius": -432.78,
+      "fahrenheit": -747
+    },
+    {
+      "celsius": -476.67,
+      "fahrenheit": -826
+    },
+    {
+      "celsius": -125.0,
+      "fahrenheit": -193
+    },
+    {
+      "celsius": -350.0,
+      "fahrenheit": -598
+    },
+    {
+      "celsius": 462.22,
+      "fahrenheit": 864
+    },
+    {
+      "celsius": -338.89,
+      "fahrenheit": -578
+    },
+    {
+      "celsius": 267.78,
+      "fahrenheit": 514
+    },
+    {
+      "celsius": 189.44,
+      "fahrenheit": 373
+    },
+    {
+      "celsius": -259.44,
+      "fahrenheit": -435
+    },
+    {
+      "celsius": -433.89,
+      "fahrenheit": -749
+    },
+    {
+      "celsius": 33.33,
+      "fahrenheit": 92
+    },
+    {
+      "celsius": -370.0,
+      "fahrenheit": -634
+    },
+    {
+      "celsius": 268.33,
+      "fahrenheit": 515
+    },
+    {
+      "celsius": 33.89,
+      "fahrenheit": 93
+    },
+    {
+      "celsius": 447.22,
+      "fahrenheit": 837
+    },
+    {
+      "celsius": -82.22,
+      "fahrenheit": -116
+    },
+    {
+      "celsius": 127.78,
+      "fahrenheit": 262
+    },
+    {
+      "celsius": -527.22,
+      "fahrenheit": -917
+    },
+    {
+      "celsius": 487.22,
+      "fahrenheit": 909
+    },
+    {
+      "celsius": 422.78,
+      "fahrenheit": 793
+    },
+    {
+      "celsius": -543.33,
+      "fahrenheit": -946
+    },
+    {
+      "celsius": -213.33,
+      "fahrenheit": -352
+    },
+    {
+      "celsius": -231.67,
+      "fahrenheit": -385
+    },
+    {
+      "celsius": 525.56,
+      "fahrenheit": 978
+    },
+    {
+      "celsius": -27.22,
+      "fahrenheit": -17
+    },
+    {
+      "celsius": -77.22,
+      "fahrenheit": -107
+    },
+    {
+      "celsius": 382.78,
+      "fahrenheit": 721
+    },
+    {
+      "celsius": -61.67,
+      "fahrenheit": -79
+    },
+    {
+      "celsius": 146.11,
+      "fahrenheit": 295
+    },
+    {
+      "celsius": -28.33,
+      "fahrenheit": -19
+    },
+    {
+      "celsius": -18.33,
+      "fahrenheit": -1
+    },
+    {
+      "celsius": -445.0,
+      "fahrenheit": -769
+    },
+    {
+      "celsius": -232.22,
+      "fahrenheit": -386
+    },
+    {
+      "celsius": -570.0,
+      "fahrenheit": -994
+    },
+    {
+      "celsius": 311.11,
+      "fahrenheit": 592
+    },
+    {
+      "celsius": -388.33,
+      "fahrenheit": -667
+    },
+    {
+      "celsius": -353.33,
+      "fahrenheit": -604
+    },
+    {
+      "celsius": -201.67,
+      "fahrenheit": -331
+    },
+    {
+      "celsius": 46.11,
+      "fahrenheit": 115
+    },
+    {
+      "celsius": 521.67,
+      "fahrenheit": 971
+    },
+    {
+      "celsius": 291.67,
+      "fahrenheit": 557
+    },
+    {
+      "celsius": 210.0,
+      "fahrenheit": 410
+    },
+    {
+      "celsius": 416.11,
+      "fahrenheit": 781
+    },
+    {
+      "celsius": 338.89,
+      "fahrenheit": 642
+    },
+    {
+      "celsius": 49.44,
+      "fahrenheit": 121
+    },
+    {
+      "celsius": -75.0,
+      "fahrenheit": -103
+    },
+    {
+      "celsius": 434.44,
+      "fahrenheit": 814
+    },
+    {
+      "celsius": 140.0,
+      "fahrenheit": 284
+    },
+    {
+      "celsius": -559.44,
+      "fahrenheit": -975
+    },
+    {
+      "celsius": -395.0,
+      "fahrenheit": -679
+    },
+    {
+      "celsius": -163.33,
+      "fahrenheit": -262
+    },
+    {
+      "celsius": 40.56,
+      "fahrenheit": 105
+    },
+    {
+      "celsius": 274.44,
+      "fahrenheit": 526
+    },
+    {
+      "celsius": -80.56,
+      "fahrenheit": -113
+    },
+    {
+      "celsius": -223.89,
+      "fahrenheit": -371
+    },
+    {
+      "celsius": -504.44,
+      "fahrenheit": -876
+    },
+    {
+      "celsius": 13.33,
+      "fahrenheit": 56
+    },
+    {
+      "celsius": -398.89,
+      "fahrenheit": -686
+    },
+    {
+      "celsius": 496.67,
+      "fahrenheit": 926
+    },
+    {
+      "celsius": -30.0,
+      "fahrenheit": -22
+    },
+    {
+      "celsius": 179.44,
+      "fahrenheit": 355
+    },
+    {
+      "celsius": 149.44,
+      "fahrenheit": 301
+    },
+    {
+      "celsius": 531.11,
+      "fahrenheit": 988
+    },
+    {
+      "celsius": 289.44,
+      "fahrenheit": 553
+    },
+    {
+      "celsius": -2.22,
+      "fahrenheit": 28
+    },
+    {
+      "celsius": -165.0,
+      "fahrenheit": -265
+    },
+    {
+      "celsius": -87.22,
+      "fahrenheit": -125
+    },
+    {
+      "celsius": -127.22,
+      "fahrenheit": -197
+    },
+    {
+      "celsius": -275.56,
+      "fahrenheit": -464
+    },
+    {
+      "celsius": 288.33,
+      "fahrenheit": 551
+    },
+    {
+      "celsius": 170.56,
+      "fahrenheit": 339
+    },
+    {
+      "celsius": -558.89,
+      "fahrenheit": -974
+    },
+    {
+      "celsius": 157.78,
+      "fahrenheit": 316
+    },
+    {
+      "celsius": -532.22,
+      "fahrenheit": -926
+    },
+    {
+      "celsius": 10.56,
+      "fahrenheit": 51
+    },
+    {
+      "celsius": 448.33,
+      "fahrenheit": 839
+    },
+    {
+      "celsius": 42.78,
+      "fahrenheit": 109
+    },
+    {
+      "celsius": -76.67,
+      "fahrenheit": -106
+    },
+    {
+      "celsius": -2.78,
+      "fahrenheit": 27
+    },
+    {
+      "celsius": 360.56,
+      "fahrenheit": 681
+    },
+    {
+      "celsius": 384.44,
+      "fahrenheit": 724
+    },
+    {
+      "celsius": 247.22,
+      "fahrenheit": 477
+    },
+    {
+      "celsius": -273.89,
+      "fahrenheit": -461
+    },
+    {
+      "celsius": -381.67,
+      "fahrenheit": -655
+    },
+    {
+      "celsius": 292.22,
+      "fahrenheit": 558
+    },
+    {
+      "celsius": 512.78,
+      "fahrenheit": 955
+    },
+    {
+      "celsius": 332.78,
+      "fahrenheit": 631
+    },
+    {
+      "celsius": 177.22,
+      "fahrenheit": 351
+    },
+    {
+      "celsius": 266.11,
+      "fahrenheit": 511
+    },
+    {
+      "celsius": 178.33,
+      "fahrenheit": 353
+    },
+    {
+      "celsius": 271.67,
+      "fahrenheit": 521
+    },
+    {
+      "celsius": -497.78,
+      "fahrenheit": -864
+    },
+    {
+      "celsius": 176.67,
+      "fahrenheit": 350
+    },
+    {
+      "celsius": 56.67,
+      "fahrenheit": 134
+    },
+    {
+      "celsius": -390.56,
+      "fahrenheit": -671
+    },
+    {
+      "celsius": -469.44,
+      "fahrenheit": -813
+    },
+    {
+      "celsius": -431.11,
+      "fahrenheit": -744
+    },
+    {
+      "celsius": -123.89,
+      "fahrenheit": -191
+    },
+    {
+      "celsius": 432.78,
+      "fahrenheit": 811
+    },
+    {
+      "celsius": -509.44,
+      "fahrenheit": -885
+    },
+    {
+      "celsius": 470.56,
+      "fahrenheit": 879
+    },
+    {
+      "celsius": 418.89,
+      "fahrenheit": 786
+    },
+    {
+      "celsius": 520.0,
+      "fahrenheit": 968
+    },
+    {
+      "celsius": 442.78,
+      "fahrenheit": 829
+    },
+    {
+      "celsius": -137.78,
+      "fahrenheit": -216
+    },
+    {
+      "celsius": -47.22,
+      "fahrenheit": -53
+    },
+    {
+      "celsius": -225.0,
+      "fahrenheit": -373
+    },
+    {
+      "celsius": 468.89,
+      "fahrenheit": 876
+    },
+    {
+      "celsius": 64.44,
+      "fahrenheit": 148
+    },
+    {
+      "celsius": 481.11,
+      "fahrenheit": 898
+    },
+    {
+      "celsius": 63.89,
+      "fahrenheit": 147
+    },
+    {
+      "celsius": -257.78,
+      "fahrenheit": -432
+    },
+    {
+      "celsius": -288.89,
+      "fahrenheit": -488
+    },
+    {
+      "celsius": 340.0,
+      "fahrenheit": 644
+    },
+    {
+      "celsius": -85.0,
+      "fahrenheit": -121
+    },
+    {
+      "celsius": 202.78,
+      "fahrenheit": 397
+    },
+    {
+      "celsius": -533.89,
+      "fahrenheit": -929
+    },
+    {
+      "celsius": -388.89,
+      "fahrenheit": -668
+    },
+    {
+      "celsius": -81.11,
+      "fahrenheit": -114
+    },
+    {
+      "celsius": 222.78,
+      "fahrenheit": 433
+    },
+    {
+      "celsius": -400.56,
+      "fahrenheit": -689
+    },
+    {
+      "celsius": -235.0,
+      "fahrenheit": -391
+    },
+    {
+      "celsius": -98.89,
+      "fahrenheit": -146
+    },
+    {
+      "celsius": -92.78,
+      "fahrenheit": -135
+    },
+    {
+      "celsius": 97.78,
+      "fahrenheit": 208
+    },
+    {
+      "celsius": 497.22,
+      "fahrenheit": 927
+    },
+    {
+      "celsius": 88.33,
+      "fahrenheit": 191
+    },
+    {
+      "celsius": -289.44,
+      "fahrenheit": -489
+    },
+    {
+      "celsius": 446.67,
+      "fahrenheit": 836
+    },
+    {
+      "celsius": -316.11,
+      "fahrenheit": -537
+    },
+    {
+      "celsius": 485.56,
+      "fahrenheit": 906
+    },
+    {
+      "celsius": 219.44,
+      "fahrenheit": 427
+    },
+    {
+      "celsius": 498.89,
+      "fahrenheit": 930
+    },
+    {
+      "celsius": 25.0,
+      "fahrenheit": 77
+    },
+    {
+      "celsius": 24.44,
+      "fahrenheit": 76
+    },
+    {
+      "celsius": 510.0,
+      "fahrenheit": 950
+    },
+    {
+      "celsius": 276.11,
+      "fahrenheit": 529
+    },
+    {
+      "celsius": 523.33,
+      "fahrenheit": 974
+    },
+    {
+      "celsius": -508.89,
+      "fahrenheit": -884
+    },
+    {
+      "celsius": -333.89,
+      "fahrenheit": -569
+    },
+    {
+      "celsius": -405.56,
+      "fahrenheit": -698
+    },
+    {
+      "celsius": -446.11,
+      "fahrenheit": -771
+    },
+    {
+      "celsius": -369.44,
+      "fahrenheit": -633
+    },
+    {
+      "celsius": 316.11,
+      "fahrenheit": 601
+    },
+    {
+      "celsius": 350.56,
+      "fahrenheit": 663
+    },
+    {
+      "celsius": -210.56,
+      "fahrenheit": -347
+    },
+    {
+      "celsius": 386.11,
+      "fahrenheit": 727
+    },
+    {
+      "celsius": -91.67,
+      "fahrenheit": -133
+    },
+    {
+      "celsius": -251.11,
+      "fahrenheit": -420
+    },
+    {
+      "celsius": -546.67,
+      "fahrenheit": -952
+    },
+    {
+      "celsius": 121.67,
+      "fahrenheit": 251
+    },
+    {
+      "celsius": 155.0,
+      "fahrenheit": 311
+    },
+    {
+      "celsius": -465.0,
+      "fahrenheit": -805
+    },
+    {
+      "celsius": 35.56,
+      "fahrenheit": 96
+    },
+    {
+      "celsius": 467.78,
+      "fahrenheit": 874
+    },
+    {
+      "celsius": 499.44,
+      "fahrenheit": 931
+    },
+    {
+      "celsius": 248.33,
+      "fahrenheit": 479
+    },
+    {
+      "celsius": 192.78,
+      "fahrenheit": 379
+    },
+    {
+      "celsius": -88.33,
+      "fahrenheit": -127
+    },
+    {
+      "celsius": 296.11,
+      "fahrenheit": 565
+    },
+    {
+      "celsius": -97.22,
+      "fahrenheit": -143
+    },
+    {
+      "celsius": -17.78,
+      "fahrenheit": 0
+    },
+    {
+      "celsius": -65.0,
+      "fahrenheit": -85
+    },
+    {
+      "celsius": -160.0,
+      "fahrenheit": -256
+    },
+    {
+      "celsius": 393.89,
+      "fahrenheit": 741
+    },
+    {
+      "celsius": -14.44,
+      "fahrenheit": 6
+    },
+    {
+      "celsius": -107.78,
+      "fahrenheit": -162
+    },
+    {
+      "celsius": 197.22,
+      "fahrenheit": 387
+    },
+    {
+      "celsius": 365.56,
+      "fahrenheit": 690
+    },
+    {
+      "celsius": 328.89,
+      "fahrenheit": 624
+    },
+    {
+      "celsius": 295.0,
+      "fahrenheit": 563
+    },
+    {
+      "celsius": -92.22,
+      "fahrenheit": -134
+    },
+    {
+      "celsius": 182.78,
+      "fahrenheit": 361
+    },
+    {
+      "celsius": -511.67,
+      "fahrenheit": -889
+    },
+    {
+      "celsius": -298.89,
+      "fahrenheit": -506
+    },
+    {
+      "celsius": 443.89,
+      "fahrenheit": 831
+    },
+    {
+      "celsius": 421.11,
+      "fahrenheit": 790
+    },
+    {
+      "celsius": 130.56,
+      "fahrenheit": 267
+    },
+    {
+      "celsius": -520.0,
+      "fahrenheit": -904
+    },
+    {
+      "celsius": 74.44,
+      "fahrenheit": 166
+    },
+    {
+      "celsius": -360.0,
+      "fahrenheit": -616
+    },
+    {
+      "celsius": -324.44,
+      "fahrenheit": -552
+    },
+    {
+      "celsius": -456.11,
+      "fahrenheit": -789
+    },
+    {
+      "celsius": 480.56,
+      "fahrenheit": 897
+    },
+    {
+      "celsius": 119.44,
+      "fahrenheit": 247
+    },
+    {
+      "celsius": 62.78,
+      "fahrenheit": 145
+    },
+    {
+      "celsius": 261.67,
+      "fahrenheit": 503
+    },
+    {
+      "celsius": -569.44,
+      "fahrenheit": -993
+    },
+    {
+      "celsius": 67.22,
+      "fahrenheit": 153
+    },
+    {
+      "celsius": 466.11,
+      "fahrenheit": 871
+    },
+    {
+      "celsius": -39.44,
+      "fahrenheit": -39
+    },
+    {
+      "celsius": -353.89,
+      "fahrenheit": -605
+    },
+    {
+      "celsius": 450.0,
+      "fahrenheit": 842
+    },
+    {
+      "celsius": 247.78,
+      "fahrenheit": 478
+    },
+    {
+      "celsius": 156.11,
+      "fahrenheit": 313
+    },
+    {
+      "celsius": 101.67,
+      "fahrenheit": 215
+    },
+    {
+      "celsius": 15.56,
+      "fahrenheit": 60
+    },
+    {
+      "celsius": 129.44,
+      "fahrenheit": 265
+    },
+    {
+      "celsius": 194.44,
+      "fahrenheit": 382
+    },
+    {
+      "celsius": -355.0,
+      "fahrenheit": -607
+    },
+    {
+      "celsius": -74.44,
+      "fahrenheit": -102
+    },
+    {
+      "celsius": 321.67,
+      "fahrenheit": 611
+    },
+    {
+      "celsius": 98.33,
+      "fahrenheit": 209
+    },
+    {
+      "celsius": -397.22,
+      "fahrenheit": -683
+    },
+    {
+      "celsius": -402.22,
+      "fahrenheit": -692
+    },
+    {
+      "celsius": 308.89,
+      "fahrenheit": 588
+    },
+    {
+      "celsius": -278.33,
+      "fahrenheit": -469
+    },
+    {
+      "celsius": -448.33,
+      "fahrenheit": -775
+    },
+    {
+      "celsius": 21.67,
+      "fahrenheit": 71
+    },
+    {
+      "celsius": -532.78,
+      "fahrenheit": -927
+    },
+    {
+      "celsius": 256.67,
+      "fahrenheit": 494
+    },
+    {
+      "celsius": -69.44,
+      "fahrenheit": -93
+    },
+    {
+      "celsius": 54.44,
+      "fahrenheit": 130
+    },
+    {
+      "celsius": -328.89,
+      "fahrenheit": -560
+    },
+    {
+      "celsius": 122.22,
+      "fahrenheit": 252
+    },
+    {
+      "celsius": -276.67,
+      "fahrenheit": -466
+    },
+    {
+      "celsius": -235.56,
+      "fahrenheit": -392
+    },
+    {
+      "celsius": 252.78,
+      "fahrenheit": 487
+    },
+    {
+      "celsius": 229.44,
+      "fahrenheit": 445
+    },
+    {
+      "celsius": -243.89,
+      "fahrenheit": -407
+    },
+    {
+      "celsius": -57.78,
+      "fahrenheit": -72
+    },
+    {
+      "celsius": 472.22,
+      "fahrenheit": 882
+    },
+    {
+      "celsius": -206.67,
+      "fahrenheit": -340
+    },
+    {
+      "celsius": -129.44,
+      "fahrenheit": -201
+    },
+    {
+      "celsius": -151.67,
+      "fahrenheit": -241
+    },
+    {
+      "celsius": 71.67,
+      "fahrenheit": 161
+    },
+    {
+      "celsius": -147.22,
+      "fahrenheit": -233
+    },
+    {
+      "celsius": 75.0,
+      "fahrenheit": 167
+    },
+    {
+      "celsius": -402.78,
+      "fahrenheit": -693
+    },
+    {
+      "celsius": -176.11,
+      "fahrenheit": -285
+    },
+    {
+      "celsius": 151.11,
+      "fahrenheit": 304
+    },
+    {
+      "celsius": -120.56,
+      "fahrenheit": -185
+    },
+    {
+      "celsius": -172.22,
+      "fahrenheit": -278
+    },
+    {
+      "celsius": 208.89,
+      "fahrenheit": 408
+    },
+    {
+      "celsius": -112.78,
+      "fahrenheit": -171
+    },
+    {
+      "celsius": 313.89,
+      "fahrenheit": 597
+    },
+    {
+      "celsius": -386.11,
+      "fahrenheit": -663
+    },
+    {
+      "celsius": 45.0,
+      "fahrenheit": 113
+    },
+    {
+      "celsius": -240.0,
+      "fahrenheit": -400
+    },
+    {
+      "celsius": 223.33,
+      "fahrenheit": 434
+    },
+    {
+      "celsius": 294.44,
+      "fahrenheit": 562
+    },
+    {
+      "celsius": -538.89,
+      "fahrenheit": -938
+    },
+    {
+      "celsius": -42.22,
+      "fahrenheit": -44
+    },
+    {
+      "celsius": -132.78,
+      "fahrenheit": -207
+    },
+    {
+      "celsius": -483.89,
+      "fahrenheit": -839
+    },
+    {
+      "celsius": -514.44,
+      "fahrenheit": -894
+    },
+    {
+      "celsius": 422.22,
+      "fahrenheit": 792
+    },
+    {
+      "celsius": 16.11,
+      "fahrenheit": 61
+    },
+    {
+      "celsius": 123.89,
+      "fahrenheit": 255
+    },
+    {
+      "celsius": 426.11,
+      "fahrenheit": 799
+    },
+    {
+      "celsius": -35.0,
+      "fahrenheit": -31
+    },
+    {
+      "celsius": 43.89,
+      "fahrenheit": 111
+    },
+    {
+      "celsius": -169.44,
+      "fahrenheit": -273
+    },
+    {
+      "celsius": -390.0,
+      "fahrenheit": -670
+    },
+    {
+      "celsius": -99.44,
+      "fahrenheit": -147
+    },
+    {
+      "celsius": 58.33,
+      "fahrenheit": 137
+    },
+    {
+      "celsius": -252.22,
+      "fahrenheit": -422
+    },
+    {
+      "celsius": -263.33,
+      "fahrenheit": -442
+    },
+    {
+      "celsius": -557.22,
+      "fahrenheit": -971
+    },
+    {
+      "celsius": -535.56,
+      "fahrenheit": -932
+    },
+    {
+      "celsius": 275.0,
+      "fahrenheit": 527
+    },
+    {
+      "celsius": -3.33,
+      "fahrenheit": 26
+    },
+    {
+      "celsius": 513.33,
+      "fahrenheit": 956
+    },
+    {
+      "celsius": -26.67,
+      "fahrenheit": -16
+    },
+    {
+      "celsius": 188.89,
+      "fahrenheit": 372
+    },
+    {
+      "celsius": 218.89,
+      "fahrenheit": 426
+    },
+    {
+      "celsius": 187.22,
+      "fahrenheit": 369
+    },
+    {
+      "celsius": 260.56,
+      "fahrenheit": 501
+    },
+    {
+      "celsius": -415.0,
+      "fahrenheit": -715
+    },
+    {
+      "celsius": -352.22,
+      "fahrenheit": -602
+    },
+    {
+      "celsius": -122.22,
+      "fahrenheit": -188
+    },
+    {
+      "celsius": -310.0,
+      "fahrenheit": -526
+    },
+    {
+      "celsius": -566.11,
+      "fahrenheit": -987
+    },
+    {
+      "celsius": -37.22,
+      "fahrenheit": -35
+    },
+    {
+      "celsius": 164.44,
+      "fahrenheit": 328
+    },
+    {
+      "celsius": 85.56,
+      "fahrenheit": 186
+    },
+    {
+      "celsius": -189.44,
+      "fahrenheit": -309
+    },
+    {
+      "celsius": -471.67,
+      "fahrenheit": -817
+    },
+    {
+      "celsius": -128.33,
+      "fahrenheit": -199
+    },
+    {
+      "celsius": -25.56,
+      "fahrenheit": -14
+    },
+    {
+      "celsius": 333.33,
+      "fahrenheit": 632
+    },
+    {
+      "celsius": -495.0,
+      "fahrenheit": -859
+    },
+    {
+      "celsius": -456.67,
+      "fahrenheit": -790
+    },
+    {
+      "celsius": 9.44,
+      "fahrenheit": 49
+    },
+    {
+      "celsius": 251.11,
+      "fahrenheit": 484
+    },
+    {
+      "celsius": -536.67,
+      "fahrenheit": -934
+    },
+    {
+      "celsius": -447.22,
+      "fahrenheit": -773
+    },
+    {
+      "celsius": 204.44,
+      "fahrenheit": 400
+    },
+    {
+      "celsius": -557.78,
+      "fahrenheit": -972
+    },
+    {
+      "celsius": 352.78,
+      "fahrenheit": 667
+    },
+    {
+      "celsius": 485.0,
+      "fahrenheit": 905
+    },
+    {
+      "celsius": 343.33,
+      "fahrenheit": 650
+    },
+    {
+      "celsius": 286.67,
+      "fahrenheit": 548
+    },
+    {
+      "celsius": 3.33,
+      "fahrenheit": 38
+    },
+    {
+      "celsius": -373.89,
+      "fahrenheit": -641
+    },
+    {
+      "celsius": -255.0,
+      "fahrenheit": -427
+    },
+    {
+      "celsius": 535.0,
+      "fahrenheit": 995
+    },
+    {
+      "celsius": -210.0,
+      "fahrenheit": -346
+    },
+    {
+      "celsius": -278.89,
+      "fahrenheit": -470
+    },
+    {
+      "celsius": 406.67,
+      "fahrenheit": 764
+    },
+    {
+      "celsius": 243.33,
+      "fahrenheit": 470
+    },
+    {
+      "celsius": -500.0,
+      "fahrenheit": -868
+    },
+    {
+      "celsius": -183.33,
+      "fahrenheit": -298
+    },
+    {
+      "celsius": -295.56,
+      "fahrenheit": -500
+    },
+    {
+      "celsius": -98.33,
+      "fahrenheit": -145
+    },
+    {
+      "celsius": -470.56,
+      "fahrenheit": -815
+    },
+    {
+      "celsius": -137.22,
+      "fahrenheit": -215
+    },
+    {
+      "celsius": 201.67,
+      "fahrenheit": 395
+    },
+    {
+      "celsius": -392.22,
+      "fahrenheit": -674
+    },
+    {
+      "celsius": -125.56,
+      "fahrenheit": -194
+    },
+    {
+      "celsius": -208.33,
+      "fahrenheit": -343
+    },
+    {
+      "celsius": -461.11,
+      "fahrenheit": -798
+    },
+    {
+      "celsius": 362.22,
+      "fahrenheit": 684
+    },
+    {
+      "celsius": 111.67,
+      "fahrenheit": 233
+    },
+    {
+      "celsius": -457.78,
+      "fahrenheit": -792
+    },
+    {
+      "celsius": -342.78,
+      "fahrenheit": -585
+    },
+    {
+      "celsius": -148.89,
+      "fahrenheit": -236
+    },
+    {
+      "celsius": -337.78,
+      "fahrenheit": -576
+    },
+    {
+      "celsius": -42.78,
+      "fahrenheit": -45
+    },
+    {
+      "celsius": 528.89,
+      "fahrenheit": 984
+    },
+    {
+      "celsius": 341.67,
+      "fahrenheit": 647
+    },
+    {
+      "celsius": -90.56,
+      "fahrenheit": -131
+    },
+    {
+      "celsius": -254.44,
+      "fahrenheit": -426
+    },
+    {
+      "celsius": 345.0,
+      "fahrenheit": 653
+    },
+    {
+      "celsius": -50.0,
+      "fahrenheit": -58
+    },
+    {
+      "celsius": -486.11,
+      "fahrenheit": -843
+    },
+    {
+      "celsius": -155.0,
+      "fahrenheit": -247
+    },
+    {
+      "celsius": -85.56,
+      "fahrenheit": -122
+    },
+    {
+      "celsius": -515.56,
+      "fahrenheit": -896
+    },
+    {
+      "celsius": -227.22,
+      "fahrenheit": -377
+    },
+    {
+      "celsius": -11.11,
+      "fahrenheit": 12
+    },
+    {
+      "celsius": -220.56,
+      "fahrenheit": -365
+    },
+    {
+      "celsius": 170.0,
+      "fahrenheit": 338
+    },
+    {
+      "celsius": 65.0,
+      "fahrenheit": 149
+    },
+    {
+      "celsius": -310.56,
+      "fahrenheit": -527
+    },
+    {
+      "celsius": 8.33,
+      "fahrenheit": 47
+    },
+    {
+      "celsius": -326.11,
+      "fahrenheit": -555
+    },
+    {
+      "celsius": 275.56,
+      "fahrenheit": 528
+    },
+    {
+      "celsius": 84.44,
+      "fahrenheit": 184
+    },
+    {
+      "celsius": -474.44,
+      "fahrenheit": -822
+    },
+    {
+      "celsius": 223.89,
+      "fahrenheit": 435
+    },
+    {
+      "celsius": 507.78,
+      "fahrenheit": 946
+    },
+    {
+      "celsius": -115.0,
+      "fahrenheit": -175
+    },
+    {
+      "celsius": -217.78,
+      "fahrenheit": -360
+    },
+    {
+      "celsius": 252.22,
+      "fahrenheit": 486
+    },
+    {
+      "celsius": -104.44,
+      "fahrenheit": -156
+    },
+    {
+      "celsius": 411.67,
+      "fahrenheit": 773
+    },
+    {
+      "celsius": -378.33,
+      "fahrenheit": -649
+    },
+    {
+      "celsius": 411.11,
+      "fahrenheit": 772
+    },
+    {
+      "celsius": -161.11,
+      "fahrenheit": -258
+    },
+    {
+      "celsius": -208.89,
+      "fahrenheit": -344
+    },
+    {
+      "celsius": 162.78,
+      "fahrenheit": 325
+    },
+    {
+      "celsius": 529.44,
+      "fahrenheit": 985
+    },
+    {
+      "celsius": -291.11,
+      "fahrenheit": -492
+    },
+    {
+      "celsius": 163.33,
+      "fahrenheit": 326
+    },
+    {
+      "celsius": -212.22,
+      "fahrenheit": -350
+    },
+    {
+      "celsius": -436.67,
+      "fahrenheit": -754
+    },
+    {
+      "celsius": 355.56,
+      "fahrenheit": 672
+    },
+    {
+      "celsius": 283.33,
+      "fahrenheit": 542
+    },
+    {
+      "celsius": -384.44,
+      "fahrenheit": -660
+    },
+    {
+      "celsius": -15.56,
+      "fahrenheit": 4
+    },
+    {
+      "celsius": 122.78,
+      "fahrenheit": 253
+    },
+    {
+      "celsius": 249.44,
+      "fahrenheit": 481
+    },
+    {
+      "celsius": 22.78,
+      "fahrenheit": 73
+    },
+    {
+      "celsius": -323.33,
+      "fahrenheit": -550
+    },
+    {
+      "celsius": 423.33,
+      "fahrenheit": 794
+    },
+    {
+      "celsius": 285.0,
+      "fahrenheit": 545
+    },
+    {
+      "celsius": 455.0,
+      "fahrenheit": 851
+    },
+    {
+      "celsius": -435.56,
+      "fahrenheit": -752
+    },
+    {
+      "celsius": -219.44,
+      "fahrenheit": -363
+    },
+    {
+      "celsius": 36.67,
+      "fahrenheit": 98
+    },
+    {
+      "celsius": -343.33,
+      "fahrenheit": -586
+    },
+    {
+      "celsius": -35.56,
+      "fahrenheit": -32
+    },
+    {
+      "celsius": -371.11,
+      "fahrenheit": -636
+    },
+    {
+      "celsius": -268.33,
+      "fahrenheit": -451
+    },
+    {
+      "celsius": -465.56,
+      "fahrenheit": -806
+    },
+    {
+      "celsius": -86.11,
+      "fahrenheit": -123
+    },
+    {
+      "celsius": -280.56,
+      "fahrenheit": -473
+    },
+    {
+      "celsius": 348.89,
+      "fahrenheit": 660
+    },
+    {
+      "celsius": -440.56,
+      "fahrenheit": -761
+    },
+    {
+      "celsius": -401.11,
+      "fahrenheit": -690
+    },
+    {
+      "celsius": 358.89,
+      "fahrenheit": 678
+    },
+    {
+      "celsius": -130.56,
+      "fahrenheit": -203
+    },
+    {
+      "celsius": -40.56,
+      "fahrenheit": -41
+    },
+    {
+      "celsius": 282.78,
+      "fahrenheit": 541
+    },
+    {
+      "celsius": -172.78,
+      "fahrenheit": -279
+    },
+    {
+      "celsius": -513.89,
+      "fahrenheit": -893
+    },
+    {
+      "celsius": 68.89,
+      "fahrenheit": 156
+    },
+    {
+      "celsius": -116.67,
+      "fahrenheit": -178
+    },
+    {
+      "celsius": -252.78,
+      "fahrenheit": -423
+    },
+    {
+      "celsius": -432.22,
+      "fahrenheit": -746
+    },
+    {
+      "celsius": -352.78,
+      "fahrenheit": -603
+    },
+    {
+      "celsius": -205.0,
+      "fahrenheit": -337
+    },
+    {
+      "celsius": -260.0,
+      "fahrenheit": -436
+    },
+    {
+      "celsius": 500.56,
+      "fahrenheit": 933
+    },
+    {
+      "celsius": -86.67,
+      "fahrenheit": -124
+    },
+    {
+      "celsius": 400.0,
+      "fahrenheit": 752
+    },
+    {
+      "celsius": -284.44,
+      "fahrenheit": -480
+    },
+    {
+      "celsius": 306.11,
+      "fahrenheit": 583
+    },
+    {
+      "celsius": -448.89,
+      "fahrenheit": -776
+    },
+    {
+      "celsius": -458.33,
+      "fahrenheit": -793
+    },
+    {
+      "celsius": -44.44,
+      "fahrenheit": -48
+    },
+    {
+      "celsius": 166.67,
+      "fahrenheit": 332
+    },
+    {
+      "celsius": -452.22,
+      "fahrenheit": -782
+    },
+    {
+      "celsius": 85.0,
+      "fahrenheit": 185
+    },
+    {
+      "celsius": 240.56,
+      "fahrenheit": 465
+    },
+    {
+      "celsius": 458.33,
+      "fahrenheit": 857
+    },
+    {
+      "celsius": -78.33,
+      "fahrenheit": -109
+    },
+    {
+      "celsius": 387.78,
+      "fahrenheit": 730
+    },
+    {
+      "celsius": -153.33,
+      "fahrenheit": -244
+    },
+    {
+      "celsius": 513.89,
+      "fahrenheit": 957
+    },
+    {
+      "celsius": -199.44,
+      "fahrenheit": -327
+    },
+    {
+      "celsius": 298.33,
+      "fahrenheit": 569
+    },
+    {
+      "celsius": 206.67,
+      "fahrenheit": 404
+    },
+    {
+      "celsius": -150.0,
+      "fahrenheit": -238
+    },
+    {
+      "celsius": -168.89,
+      "fahrenheit": -272
+    },
+    {
+      "celsius": -383.89,
+      "fahrenheit": -659
+    },
+    {
+      "celsius": -568.33,
+      "fahrenheit": -991
+    },
+    {
+      "celsius": -110.0,
+      "fahrenheit": -166
+    },
+    {
+      "celsius": 379.44,
+      "fahrenheit": 715
+    },
+    {
+      "celsius": -534.44,
+      "fahrenheit": -930
+    },
+    {
+      "celsius": 210.56,
+      "fahrenheit": 411
+    },
+    {
+      "celsius": -497.22,
+      "fahrenheit": -863
+    },
+    {
+      "celsius": -483.33,
+      "fahrenheit": -838
+    },
+    {
+      "celsius": 231.67,
+      "fahrenheit": 449
+    },
+    {
+      "celsius": -521.11,
+      "fahrenheit": -906
+    },
+    {
+      "celsius": -522.22,
+      "fahrenheit": -908
+    },
+    {
+      "celsius": -5.56,
+      "fahrenheit": 22
+    },
+    {
+      "celsius": -160.56,
+      "fahrenheit": -257
+    },
+    {
+      "celsius": -520.56,
+      "fahrenheit": -905
+    },
+    {
+      "celsius": 303.89,
+      "fahrenheit": 579
+    },
+    {
+      "celsius": -350.56,
+      "fahrenheit": -599
+    },
+    {
+      "celsius": 227.78,
+      "fahrenheit": 442
+    },
+    {
+      "celsius": 532.78,
+      "fahrenheit": 991
+    },
+    {
+      "celsius": -296.67,
+      "fahrenheit": -502
+    },
+    {
+      "celsius": -55.0,
+      "fahrenheit": -67
+    },
+    {
+      "celsius": 232.22,
+      "fahrenheit": 450
+    },
+    {
+      "celsius": -32.22,
+      "fahrenheit": -26
+    },
+    {
+      "celsius": 435.0,
+      "fahrenheit": 815
+    },
+    {
+      "celsius": 467.22,
+      "fahrenheit": 873
+    },
+    {
+      "celsius": -538.33,
+      "fahrenheit": -937
+    },
+    {
+      "celsius": -71.11,
+      "fahrenheit": -96
+    },
+    {
+      "celsius": -136.67,
+      "fahrenheit": -214
+    },
+    {
+      "celsius": -78.89,
+      "fahrenheit": -110
+    },
+    {
+      "celsius": 265.56,
+      "fahrenheit": 510
+    },
+    {
+      "celsius": 177.78,
+      "fahrenheit": 352
+    },
+    {
+      "celsius": -357.78,
+      "fahrenheit": -612
+    },
+    {
+      "celsius": 336.11,
+      "fahrenheit": 637
+    },
+    {
+      "celsius": -477.22,
+      "fahrenheit": -827
+    },
+    {
+      "celsius": 283.89,
+      "fahrenheit": 543
+    },
+    {
+      "celsius": -211.67,
+      "fahrenheit": -349
+    },
+    {
+      "celsius": 86.67,
+      "fahrenheit": 188
+    },
+    {
+      "celsius": 363.89,
+      "fahrenheit": 687
+    },
+    {
+      "celsius": 116.67,
+      "fahrenheit": 242
+    },
+    {
+      "celsius": 443.33,
+      "fahrenheit": 830
+    },
+    {
+      "celsius": -195.0,
+      "fahrenheit": -319
+    },
+    {
+      "celsius": -543.89,
+      "fahrenheit": -947
+    },
+    {
+      "celsius": 51.11,
+      "fahrenheit": 124
+    },
+    {
+      "celsius": 91.11,
+      "fahrenheit": 196
+    },
+    {
+      "celsius": -1.67,
+      "fahrenheit": 29
+    },
+    {
+      "celsius": -300.0,
+      "fahrenheit": -508
+    },
+    {
+      "celsius": -71.67,
+      "fahrenheit": -97
+    },
+    {
+      "celsius": -378.89,
+      "fahrenheit": -650
+    },
+    {
+      "celsius": 196.11,
+      "fahrenheit": 385
+    },
+    {
+      "celsius": 35.0,
+      "fahrenheit": 95
+    },
+    {
+      "celsius": -54.44,
+      "fahrenheit": -66
+    },
+    {
+      "celsius": 124.44,
+      "fahrenheit": 256
+    },
+    {
+      "celsius": -93.89,
+      "fahrenheit": -137
+    },
+    {
+      "celsius": 145.0,
+      "fahrenheit": 293
+    },
+    {
+      "celsius": -246.67,
+      "fahrenheit": -412
+    },
+    {
+      "celsius": 91.67,
+      "fahrenheit": 197
+    },
+    {
+      "celsius": -411.67,
+      "fahrenheit": -709
+    },
+    {
+      "celsius": 197.78,
+      "fahrenheit": 388
+    },
+    {
+      "celsius": 30.56,
+      "fahrenheit": 87
+    },
+    {
+      "celsius": -301.67,
+      "fahrenheit": -511
+    },
+    {
+      "celsius": 490.56,
+      "fahrenheit": 915
+    },
+    {
+      "celsius": -370.56,
+      "fahrenheit": -635
+    },
+    {
+      "celsius": -457.22,
+      "fahrenheit": -791
+    },
+    {
+      "celsius": 404.44,
+      "fahrenheit": 760
+    },
+    {
+      "celsius": -30.56,
+      "fahrenheit": -23
+    },
+    {
+      "celsius": -267.22,
+      "fahrenheit": -449
+    },
+    {
+      "celsius": 498.33,
+      "fahrenheit": 929
+    },
+    {
+      "celsius": -116.11,
+      "fahrenheit": -177
+    },
+    {
+      "celsius": 452.78,
+      "fahrenheit": 847
+    },
+    {
+      "celsius": -282.22,
+      "fahrenheit": -476
+    },
+    {
+      "celsius": 165.56,
+      "fahrenheit": 330
+    },
+    {
+      "celsius": -373.33,
+      "fahrenheit": -640
+    },
+    {
+      "celsius": 515.0,
+      "fahrenheit": 959
+    },
+    {
+      "celsius": -488.33,
+      "fahrenheit": -847
+    },
+    {
+      "celsius": -424.44,
+      "fahrenheit": -732
+    },
+    {
+      "celsius": 126.67,
+      "fahrenheit": 260
+    },
+    {
+      "celsius": -266.11,
+      "fahrenheit": -447
+    },
+    {
+      "celsius": -427.78,
+      "fahrenheit": -738
+    },
+    {
+      "celsius": -571.67,
+      "fahrenheit": -997
+    },
+    {
+      "celsius": -223.33,
+      "fahrenheit": -370
+    },
+    {
+      "celsius": -325.0,
+      "fahrenheit": -553
+    },
+    {
+      "celsius": 385.56,
+      "fahrenheit": 726
+    },
+    {
+      "celsius": -434.44,
+      "fahrenheit": -750
+    },
+    {
+      "celsius": 330.0,
+      "fahrenheit": 626
+    },
+    {
+      "celsius": 386.67,
+      "fahrenheit": 728
+    },
+    {
+      "celsius": 388.33,
+      "fahrenheit": 731
+    },
+    {
+      "celsius": -43.89,
+      "fahrenheit": -47
+    },
+    {
+      "celsius": 31.11,
+      "fahrenheit": 88
+    },
+    {
+      "celsius": 416.67,
+      "fahrenheit": 782
+    },
+    {
+      "celsius": -4.44,
+      "fahrenheit": 24
+    },
+    {
+      "celsius": -297.22,
+      "fahrenheit": -503
+    },
+    {
+      "celsius": -263.89,
+      "fahrenheit": -443
+    },
+    {
+      "celsius": 312.78,
+      "fahrenheit": 595
+    },
+    {
+      "celsius": -228.33,
+      "fahrenheit": -379
+    },
+    {
+      "celsius": 263.89,
+      "fahrenheit": 507
+    },
+    {
+      "celsius": -363.33,
+      "fahrenheit": -622
+    },
+    {
+      "celsius": 533.33,
+      "fahrenheit": 992
+    },
+    {
+      "celsius": 188.33,
+      "fahrenheit": 371
+    },
+    {
+      "celsius": 336.67,
+      "fahrenheit": 638
+    },
+    {
+      "celsius": 150.56,
+      "fahrenheit": 303
+    },
+    {
+      "celsius": 237.78,
+      "fahrenheit": 460
+    },
+    {
+      "celsius": -58.89,
+      "fahrenheit": -74
+    },
+    {
+      "celsius": -332.22,
+      "fahrenheit": -566
+    },
+    {
+      "celsius": 426.67,
+      "fahrenheit": 800
+    },
+    {
+      "celsius": -452.78,
+      "fahrenheit": -783
+    },
+    {
+      "celsius": 374.44,
+      "fahrenheit": 706
+    },
+    {
+      "celsius": 17.78,
+      "fahrenheit": 64
+    },
+    {
+      "celsius": 457.22,
+      "fahrenheit": 855
+    },
+    {
+      "celsius": 415.56,
+      "fahrenheit": 780
+    },
+    {
+      "celsius": 137.78,
+      "fahrenheit": 280
+    },
+    {
+      "celsius": 440.56,
+      "fahrenheit": 825
+    },
+    {
+      "celsius": -329.44,
+      "fahrenheit": -561
+    },
+    {
+      "celsius": -321.67,
+      "fahrenheit": -547
+    },
+    {
+      "celsius": -200.0,
+      "fahrenheit": -328
+    },
+    {
+      "celsius": -537.78,
+      "fahrenheit": -936
+    },
+    {
+      "celsius": 331.67,
+      "fahrenheit": 629
+    },
+    {
+      "celsius": 181.67,
+      "fahrenheit": 359
+    },
+    {
+      "celsius": 95.0,
+      "fahrenheit": 203
+    },
+    {
+      "celsius": 338.33,
+      "fahrenheit": 641
+    },
+    {
+      "celsius": -41.11,
+      "fahrenheit": -42
+    },
+    {
+      "celsius": -102.22,
+      "fahrenheit": -152
+    },
+    {
+      "celsius": -143.33,
+      "fahrenheit": -226
+    },
+    {
+      "celsius": -133.89,
+      "fahrenheit": -209
+    },
+    {
+      "celsius": -247.78,
+      "fahrenheit": -414
+    },
+    {
+      "celsius": 217.78,
+      "fahrenheit": 424
+    },
+    {
+      "celsius": 42.22,
+      "fahrenheit": 108
+    },
+    {
+      "celsius": 495.0,
+      "fahrenheit": 923
+    },
+    {
+      "celsius": -419.44,
+      "fahrenheit": -723
+    },
+    {
+      "celsius": -5.0,
+      "fahrenheit": 23
+    },
+    {
+      "celsius": -478.89,
+      "fahrenheit": -830
+    },
+    {
+      "celsius": 527.78,
+      "fahrenheit": 982
+    },
+    {
+      "celsius": 431.11,
+      "fahrenheit": 808
+    },
+    {
+      "celsius": -50.56,
+      "fahrenheit": -59
+    },
+    {
+      "celsius": -192.22,
+      "fahrenheit": -314
+    },
+    {
+      "celsius": -21.11,
+      "fahrenheit": -6
+    },
+    {
+      "celsius": -526.11,
+      "fahrenheit": -915
+    },
+    {
+      "celsius": -549.44,
+      "fahrenheit": -957
+    },
+    {
+      "celsius": -105.56,
+      "fahrenheit": -158
+    },
+    {
+      "celsius": -516.67,
+      "fahrenheit": -898
+    },
+    {
+      "celsius": 62.22,
+      "fahrenheit": 144
+    },
+    {
+      "celsius": 536.11,
+      "fahrenheit": 997
+    },
+    {
+      "celsius": -550.0,
+      "fahrenheit": -958
+    },
+    {
+      "celsius": -115.56,
+      "fahrenheit": -176
+    },
+    {
+      "celsius": -10.56,
+      "fahrenheit": 13
+    },
+    {
+      "celsius": 316.67,
+      "fahrenheit": 602
+    },
+    {
+      "celsius": 477.78,
+      "fahrenheit": 892
+    },
+    {
+      "celsius": 324.44,
+      "fahrenheit": 616
+    },
+    {
+      "celsius": 407.78,
+      "fahrenheit": 766
+    },
+    {
+      "celsius": -500.56,
+      "fahrenheit": -869
+    },
+    {
+      "celsius": 288.89,
+      "fahrenheit": 552
+    },
+    {
+      "celsius": 26.11,
+      "fahrenheit": 79
+    },
+    {
+      "celsius": -503.33,
+      "fahrenheit": -874
+    },
+    {
+      "celsius": 507.22,
+      "fahrenheit": 945
+    },
+    {
+      "celsius": 67.78,
+      "fahrenheit": 154
+    },
+    {
+      "celsius": -552.22,
+      "fahrenheit": -962
+    },
+    {
+      "celsius": 110.0,
+      "fahrenheit": 230
+    },
+    {
+      "celsius": -533.33,
+      "fahrenheit": -928
+    },
+    {
+      "celsius": 57.22,
+      "fahrenheit": 135
+    },
+    {
+      "celsius": -428.33,
+      "fahrenheit": -739
+    },
+    {
+      "celsius": -224.44,
+      "fahrenheit": -372
+    },
+    {
+      "celsius": -167.22,
+      "fahrenheit": -269
+    },
+    {
+      "celsius": -225.56,
+      "fahrenheit": -374
+    },
+    {
+      "celsius": 476.67,
+      "fahrenheit": 890
+    },
+    {
+      "celsius": -96.67,
+      "fahrenheit": -142
+    },
+    {
+      "celsius": -135.0,
+      "fahrenheit": -211
+    },
+    {
+      "celsius": -291.67,
+      "fahrenheit": -493
+    },
+    {
+      "celsius": -141.11,
+      "fahrenheit": -222
+    },
+    {
+      "celsius": 73.89,
+      "fahrenheit": 165
+    },
+    {
+      "celsius": -187.22,
+      "fahrenheit": -305
+    },
+    {
+      "celsius": -62.22,
+      "fahrenheit": -80
+    },
+    {
+      "celsius": 117.22,
+      "fahrenheit": 243
+    },
+    {
+      "celsius": -516.11,
+      "fahrenheit": -897
+    },
+    {
+      "celsius": 492.22,
+      "fahrenheit": 918
+    },
+    {
+      "celsius": -382.78,
+      "fahrenheit": -657
+    },
+    {
+      "celsius": -355.56,
+      "fahrenheit": -608
+    },
+    {
+      "celsius": -239.44,
+      "fahrenheit": -399
+    },
+    {
+      "celsius": -177.78,
+      "fahrenheit": -288
+    },
+    {
+      "celsius": 270.0,
+      "fahrenheit": 518
+    },
+    {
+      "celsius": -407.22,
+      "fahrenheit": -701
+    },
+    {
+      "celsius": -238.89,
+      "fahrenheit": -398
+    },
+    {
+      "celsius": -335.56,
+      "fahrenheit": -572
+    },
+    {
+      "celsius": 216.67,
+      "fahrenheit": 422
+    },
+    {
+      "celsius": -171.11,
+      "fahrenheit": -276
+    },
+    {
+      "celsius": -80.0,
+      "fahrenheit": -112
+    },
+    {
+      "celsius": -560.56,
+      "fahrenheit": -977
+    },
+    {
+      "celsius": -453.89,
+      "fahrenheit": -785
+    },
+    {
+      "celsius": 355.0,
+      "fahrenheit": 671
+    },
+    {
+      "celsius": 375.0,
+      "fahrenheit": 707
+    },
+    {
+      "celsius": 11.11,
+      "fahrenheit": 52
+    },
+    {
+      "celsius": 237.22,
+      "fahrenheit": 459
+    },
+    {
+      "celsius": -322.22,
+      "fahrenheit": -548
+    },
+    {
+      "celsius": 191.67,
+      "fahrenheit": 377
+    },
+    {
+      "celsius": 211.11,
+      "fahrenheit": 412
+    },
+    {
+      "celsius": -518.89,
+      "fahrenheit": -902
+    },
+    {
+      "celsius": 93.33,
+      "fahrenheit": 200
+    },
+    {
+      "celsius": 327.22,
+      "fahrenheit": 621
+    },
+    {
+      "celsius": 341.11,
+      "fahrenheit": 646
+    },
+    {
+      "celsius": -183.89,
+      "fahrenheit": -299
+    },
+    {
+      "celsius": 395.0,
+      "fahrenheit": 743
+    },
+    {
+      "celsius": -396.67,
+      "fahrenheit": -682
+    },
+    {
+      "celsius": -182.78,
+      "fahrenheit": -297
+    },
+    {
+      "celsius": 253.89,
+      "fahrenheit": 489
+    },
+    {
+      "celsius": 430.56,
+      "fahrenheit": 807
+    },
+    {
+      "celsius": 279.44,
+      "fahrenheit": 535
+    },
+    {
+      "celsius": 23.33,
+      "fahrenheit": 74
+    },
+    {
+      "celsius": -507.22,
+      "fahrenheit": -881
+    },
+    {
+      "celsius": -410.0,
+      "fahrenheit": -706
+    },
+    {
+      "celsius": -271.11,
+      "fahrenheit": -456
+    },
+    {
+      "celsius": -512.78,
+      "fahrenheit": -891
+    },
+    {
+      "celsius": 413.89,
+      "fahrenheit": 777
+    },
+    {
+      "celsius": 95.56,
+      "fahrenheit": 204
+    },
+    {
+      "celsius": 361.11,
+      "fahrenheit": 682
+    },
+    {
+      "celsius": -75.56,
+      "fahrenheit": -104
+    },
+    {
+      "celsius": 82.22,
+      "fahrenheit": 180
+    },
+    {
+      "celsius": -508.33,
+      "fahrenheit": -883
+    },
+    {
+      "celsius": -442.78,
+      "fahrenheit": -765
+    },
+    {
+      "celsius": 147.22,
+      "fahrenheit": 297
+    },
+    {
+      "celsius": 425.56,
+      "fahrenheit": 798
+    },
+    {
+      "celsius": -261.11,
+      "fahrenheit": -438
+    },
+    {
+      "celsius": 140.56,
+      "fahrenheit": 285
+    },
+    {
+      "celsius": -140.0,
+      "fahrenheit": -220
+    },
+    {
+      "celsius": -228.89,
+      "fahrenheit": -380
+    },
+    {
+      "celsius": 108.89,
+      "fahrenheit": 228
+    },
+    {
+      "celsius": 234.44,
+      "fahrenheit": 454
+    },
+    {
+      "celsius": 462.78,
+      "fahrenheit": 865
+    },
+    {
+      "celsius": 364.44,
+      "fahrenheit": 688
+    },
+    {
+      "celsius": -6.11,
+      "fahrenheit": 21
+    },
+    {
+      "celsius": -135.56,
+      "fahrenheit": -212
+    },
+    {
+      "celsius": 132.22,
+      "fahrenheit": 270
+    },
+    {
+      "celsius": -60.56,
+      "fahrenheit": -77
+    },
+    {
+      "celsius": -142.78,
+      "fahrenheit": -225
+    },
+    {
+      "celsius": 196.67,
+      "fahrenheit": 386
+    },
+    {
+      "celsius": 254.44,
+      "fahrenheit": 490
+    },
+    {
+      "celsius": -292.78,
+      "fahrenheit": -495
+    },
+    {
+      "celsius": 457.78,
+      "fahrenheit": 856
+    },
+    {
+      "celsius": 230.0,
+      "fahrenheit": 446
+    },
+    {
+      "celsius": -376.11,
+      "fahrenheit": -645
+    },
+    {
+      "celsius": -126.67,
+      "fahrenheit": -196
+    },
+    {
+      "celsius": 97.22,
+      "fahrenheit": 207
+    },
+    {
+      "celsius": 75.56,
+      "fahrenheit": 168
+    },
+    {
+      "celsius": 438.33,
+      "fahrenheit": 821
+    },
+    {
+      "celsius": -141.67,
+      "fahrenheit": -223
+    },
+    {
+      "celsius": -57.22,
+      "fahrenheit": -71
+    },
+    {
+      "celsius": -470.0,
+      "fahrenheit": -814
+    },
+    {
+      "celsius": -563.89,
+      "fahrenheit": -983
+    },
+    {
+      "celsius": 468.33,
+      "fahrenheit": 875
+    },
+    {
+      "celsius": -49.44,
+      "fahrenheit": -57
+    },
+    {
+      "celsius": 159.44,
+      "fahrenheit": 319
+    },
+    {
+      "celsius": 217.22,
+      "fahrenheit": 423
+    },
+    {
+      "celsius": 156.67,
+      "fahrenheit": 314
+    },
+    {
+      "celsius": -341.67,
+      "fahrenheit": -583
+    },
+    {
+      "celsius": 160.0,
+      "fahrenheit": 320
+    },
+    {
+      "celsius": -349.44,
+      "fahrenheit": -597
+    },
+    {
+      "celsius": 141.67,
+      "fahrenheit": 287
+    },
+    {
+      "celsius": -95.0,
+      "fahrenheit": -139
+    },
+    {
+      "celsius": 388.89,
+      "fahrenheit": 732
+    },
+    {
+      "celsius": 391.11,
+      "fahrenheit": 736
+    },
+    {
+      "celsius": -551.11,
+      "fahrenheit": -960
+    },
+    {
+      "celsius": 266.67,
+      "fahrenheit": 512
+    },
+    {
+      "celsius": 104.44,
+      "fahrenheit": 220
+    },
+    {
+      "celsius": -107.22,
+      "fahrenheit": -161
+    },
+    {
+      "celsius": -491.67,
+      "fahrenheit": -853
+    },
+    {
+      "celsius": 278.89,
+      "fahrenheit": 534
+    },
+    {
+      "celsius": -70.56,
+      "fahrenheit": -95
+    },
+    {
+      "celsius": -344.44,
+      "fahrenheit": -588
+    },
+    {
+      "celsius": -240.56,
+      "fahrenheit": -401
+    },
+    {
+      "celsius": 136.67,
+      "fahrenheit": 278
+    },
+    {
+      "celsius": 354.44,
+      "fahrenheit": 670
+    },
+    {
+      "celsius": 272.22,
+      "fahrenheit": 522
+    },
+    {
+      "celsius": -481.11,
+      "fahrenheit": -834
+    },
+    {
+      "celsius": -266.67,
+      "fahrenheit": -448
+    },
+    {
+      "celsius": -242.78,
+      "fahrenheit": -405
+    },
+    {
+      "celsius": 412.78,
+      "fahrenheit": 775
+    },
+    {
+      "celsius": 265.0,
+      "fahrenheit": 509
+    },
+    {
+      "celsius": 101.11,
+      "fahrenheit": 214
+    },
+    {
+      "celsius": -185.56,
+      "fahrenheit": -302
+    },
+    {
+      "celsius": -258.89,
+      "fahrenheit": -434
+    },
+    {
+      "celsius": 337.78,
+      "fahrenheit": 640
+    },
+    {
+      "celsius": 255.56,
+      "fahrenheit": 492
+    },
+    {
+      "celsius": -376.67,
+      "fahrenheit": -646
+    },
+    {
+      "celsius": 417.22,
+      "fahrenheit": 783
+    },
+    {
+      "celsius": 133.89,
+      "fahrenheit": 273
+    },
+    {
+      "celsius": -548.89,
+      "fahrenheit": -956
+    },
+    {
+      "celsius": 511.67,
+      "fahrenheit": 953
+    },
+    {
+      "celsius": -214.44,
+      "fahrenheit": -354
+    },
+    {
+      "celsius": -222.22,
+      "fahrenheit": -368
+    },
+    {
+      "celsius": 89.44,
+      "fahrenheit": 193
+    },
+    {
+      "celsius": 346.11,
+      "fahrenheit": 655
+    },
+    {
+      "celsius": -173.89,
+      "fahrenheit": -281
+    },
+    {
+      "celsius": 153.89,
+      "fahrenheit": 309
+    },
+    {
+      "celsius": -416.11,
+      "fahrenheit": -717
+    },
+    {
+      "celsius": -142.22,
+      "fahrenheit": -224
+    },
+    {
+      "celsius": -27.78,
+      "fahrenheit": -18
+    },
+    {
+      "celsius": 172.22,
+      "fahrenheit": 342
+    },
+    {
+      "celsius": -505.0,
+      "fahrenheit": -877
+    },
+    {
+      "celsius": 107.78,
+      "fahrenheit": 226
+    },
+    {
+      "celsius": -346.11,
+      "fahrenheit": -591
+    },
+    {
+      "celsius": 52.78,
+      "fahrenheit": 127
+    },
+    {
+      "celsius": 23.89,
+      "fahrenheit": 75
+    },
+    {
+      "celsius": -307.22,
+      "fahrenheit": -521
+    },
+    {
+      "celsius": 77.78,
+      "fahrenheit": 172
+    },
+    {
+      "celsius": 233.33,
+      "fahrenheit": 452
+    },
+    {
+      "celsius": 145.56,
+      "fahrenheit": 294
+    },
+    {
+      "celsius": 5.56,
+      "fahrenheit": 42
+    },
+    {
+      "celsius": -385.0,
+      "fahrenheit": -661
+    },
+    {
+      "celsius": -212.78,
+      "fahrenheit": -351
+    },
+    {
+      "celsius": 28.33,
+      "fahrenheit": 83
+    },
+    {
+      "celsius": 476.11,
+      "fahrenheit": 889
+    },
+    {
+      "celsius": -562.22,
+      "fahrenheit": -980
+    },
+    {
+      "celsius": 263.33,
+      "fahrenheit": 506
+    },
+    {
+      "celsius": -90.0,
+      "fahrenheit": -130
+    },
+    {
+      "celsius": -216.67,
+      "fahrenheit": -358
+    },
+    {
+      "celsius": -83.33,
+      "fahrenheit": -118
+    },
+    {
+      "celsius": -523.89,
+      "fahrenheit": -911
+    },
+    {
+      "celsius": 304.44,
+      "fahrenheit": 580
+    },
+    {
+      "celsius": 334.44,
+      "fahrenheit": 634
+    },
+    {
+      "celsius": 486.11,
+      "fahrenheit": 907
+    },
+    {
+      "celsius": 358.33,
+      "fahrenheit": 677
+    },
+    {
+      "celsius": -122.78,
+      "fahrenheit": -189
+    },
+    {
+      "celsius": 451.67,
+      "fahrenheit": 845
+    },
+    {
+      "celsius": -454.44,
+      "fahrenheit": -786
+    },
+    {
+      "celsius": 238.33,
+      "fahrenheit": 461
+    },
+    {
+      "celsius": -512.22,
+      "fahrenheit": -890
+    },
+    {
+      "celsius": 44.44,
+      "fahrenheit": 112
+    },
+    {
+      "celsius": 227.22,
+      "fahrenheit": 441
+    },
+    {
+      "celsius": -515.0,
+      "fahrenheit": -895
+    },
+    {
+      "celsius": -511.11,
+      "fahrenheit": -888
+    },
+    {
+      "celsius": 520.56,
+      "fahrenheit": 969
+    },
+    {
+      "celsius": 473.33,
+      "fahrenheit": 884
+    },
+    {
+      "celsius": 261.11,
+      "fahrenheit": 502
+    },
+    {
+      "celsius": -572.22,
+      "fahrenheit": -998
+    },
+    {
+      "celsius": -248.33,
+      "fahrenheit": -415
+    },
+    {
+      "celsius": 308.33,
+      "fahrenheit": 587
+    },
+    {
+      "celsius": 195.56,
+      "fahrenheit": 384
+    },
+    {
+      "celsius": 351.11,
+      "fahrenheit": 664
+    },
+    {
+      "celsius": 320.0,
+      "fahrenheit": 608
+    },
+    {
+      "celsius": -377.78,
+      "fahrenheit": -648
+    },
+    {
+      "celsius": -72.22,
+      "fahrenheit": -98
+    },
+    {
+      "celsius": -204.44,
+      "fahrenheit": -336
+    },
+    {
+      "celsius": -79.44,
+      "fahrenheit": -111
+    },
+    {
+      "celsius": -277.22,
+      "fahrenheit": -467
+    },
+    {
+      "celsius": -17.22,
+      "fahrenheit": 1
+    },
+    {
+      "celsius": -226.11,
+      "fahrenheit": -375
+    },
+    {
+      "celsius": -312.78,
+      "fahrenheit": -531
+    },
+    {
+      "celsius": 530.56,
+      "fahrenheit": 987
+    },
+    {
+      "celsius": -303.89,
+      "fahrenheit": -515
+    },
+    {
+      "celsius": -230.0,
+      "fahrenheit": -382
+    },
+    {
+      "celsius": 526.11,
+      "fahrenheit": 979
+    },
+    {
+      "celsius": 277.22,
+      "fahrenheit": 531
+    },
+    {
+      "celsius": -111.11,
+      "fahrenheit": -168
+    },
+    {
+      "celsius": -156.11,
+      "fahrenheit": -249
+    },
+    {
+      "celsius": -23.89,
+      "fahrenheit": -11
+    },
+    {
+      "celsius": 417.78,
+      "fahrenheit": 784
+    },
+    {
+      "celsius": 126.11,
+      "fahrenheit": 259
+    },
+    {
+      "celsius": 366.67,
+      "fahrenheit": 692
+    },
+    {
+      "celsius": -61.11,
+      "fahrenheit": -78
+    },
+    {
+      "celsius": 90.0,
+      "fahrenheit": 194
+    },
+    {
+      "celsius": 361.67,
+      "fahrenheit": 683
+    },
+    {
+      "celsius": 494.44,
+      "fahrenheit": 922
+    },
+    {
+      "celsius": 518.89,
+      "fahrenheit": 966
+    },
+    {
+      "celsius": -386.67,
+      "fahrenheit": -664
+    },
+    {
+      "celsius": -488.89,
+      "fahrenheit": -848
+    },
+    {
+      "celsius": -491.11,
+      "fahrenheit": -852
+    },
+    {
+      "celsius": -56.67,
+      "fahrenheit": -70
+    },
+    {
+      "celsius": -153.89,
+      "fahrenheit": -245
+    },
+    {
+      "celsius": 463.33,
+      "fahrenheit": 866
+    },
+    {
+      "celsius": -431.67,
+      "fahrenheit": -745
+    },
+    {
+      "celsius": 433.89,
+      "fahrenheit": 813
+    },
+    {
+      "celsius": 108.33,
+      "fahrenheit": 227
+    },
+    {
+      "celsius": 134.44,
+      "fahrenheit": 274
+    },
+    {
+      "celsius": 13.89,
+      "fahrenheit": 57
+    },
+    {
+      "celsius": 410.0,
+      "fahrenheit": 770
+    },
+    {
+      "celsius": 245.0,
+      "fahrenheit": 473
+    },
+    {
+      "celsius": -368.89,
+      "fahrenheit": -632
+    },
+    {
+      "celsius": -253.89,
+      "fahrenheit": -425
+    },
+    {
+      "celsius": -148.33,
+      "fahrenheit": -235
+    },
+    {
+      "celsius": 161.11,
+      "fahrenheit": 322
+    },
+    {
+      "celsius": 215.56,
+      "fahrenheit": 420
+    },
+    {
+      "celsius": 112.22,
+      "fahrenheit": 234
+    },
+    {
+      "celsius": -389.44,
+      "fahrenheit": -669
+    },
+    {
+      "celsius": -338.33,
+      "fahrenheit": -577
+    },
+    {
+      "celsius": 8.89,
+      "fahrenheit": 48
+    },
+    {
+      "celsius": 302.22,
+      "fahrenheit": 576
+    },
+    {
+      "celsius": 505.56,
+      "fahrenheit": 942
+    },
+    {
+      "celsius": -439.44,
+      "fahrenheit": -759
+    },
+    {
+      "celsius": -330.56,
+      "fahrenheit": -563
+    },
+    {
+      "celsius": 464.44,
+      "fahrenheit": 868
+    },
+    {
+      "celsius": 269.44,
+      "fahrenheit": 517
+    },
+    {
+      "celsius": -572.78,
+      "fahrenheit": -999
+    },
+    {
+      "celsius": -188.33,
+      "fahrenheit": -307
+    },
+    {
+      "celsius": 96.11,
+      "fahrenheit": 205
+    },
+    {
+      "celsius": 63.33,
+      "fahrenheit": 146
+    },
+    {
+      "celsius": 114.44,
+      "fahrenheit": 238
+    },
+    {
+      "celsius": 381.67,
+      "fahrenheit": 719
+    },
+    {
+      "celsius": 492.78,
+      "fahrenheit": 919
+    },
+    {
+      "celsius": -422.22,
+      "fahrenheit": -728
+    },
+    {
+      "celsius": 456.67,
+      "fahrenheit": 854
+    },
+    {
+      "celsius": -181.67,
+      "fahrenheit": -295
+    },
+    {
+      "celsius": -341.11,
+      "fahrenheit": -582
+    },
+    {
+      "celsius": 493.33,
+      "fahrenheit": 920
+    },
+    {
+      "celsius": 117.78,
+      "fahrenheit": 244
+    },
+    {
+      "celsius": -315.0,
+      "fahrenheit": -535
+    },
+    {
+      "celsius": -331.11,
+      "fahrenheit": -564
+    },
+    {
+      "celsius": -145.56,
+      "fahrenheit": -230
+    },
+    {
+      "celsius": -427.22,
+      "fahrenheit": -737
+    },
+    {
+      "celsius": 357.22,
+      "fahrenheit": 675
+    },
+    {
+      "celsius": -496.67,
+      "fahrenheit": -862
+    },
+    {
+      "celsius": 103.33,
+      "fahrenheit": 218
+    },
+    {
+      "celsius": 105.0,
+      "fahrenheit": 221
+    },
+    {
+      "celsius": 306.67,
+      "fahrenheit": 584
+    },
+    {
+      "celsius": -414.44,
+      "fahrenheit": -714
+    },
+    {
+      "celsius": 190.56,
+      "fahrenheit": 375
+    },
+    {
+      "celsius": 330.56,
+      "fahrenheit": 627
+    },
+    {
+      "celsius": 46.67,
+      "fahrenheit": 116
+    },
+    {
+      "celsius": 70.0,
+      "fahrenheit": 158
+    },
+    {
+      "celsius": -233.33,
+      "fahrenheit": -388
+    },
+    {
+      "celsius": -330.0,
+      "fahrenheit": -562
+    },
+    {
+      "celsius": 200.0,
+      "fahrenheit": 392
+    },
+    {
+      "celsius": -391.11,
+      "fahrenheit": -672
+    },
+    {
+      "celsius": -399.44,
+      "fahrenheit": -687
+    },
+    {
+      "celsius": -162.22,
+      "fahrenheit": -260
+    },
+    {
+      "celsius": 30.0,
+      "fahrenheit": 86
+    },
+    {
+      "celsius": 94.44,
+      "fahrenheit": 202
+    },
+    {
+      "celsius": 3.89,
+      "fahrenheit": 39
+    },
+    {
+      "celsius": -320.0,
+      "fahrenheit": -544
+    },
+    {
+      "celsius": -190.0,
+      "fahrenheit": -310
+    },
+    {
+      "celsius": -271.67,
+      "fahrenheit": -457
+    },
+    {
+      "celsius": -22.22,
+      "fahrenheit": -8
+    },
+    {
+      "celsius": 26.67,
+      "fahrenheit": 80
+    },
+    {
+      "celsius": 418.33,
+      "fahrenheit": 785
+    },
+    {
+      "celsius": -305.56,
+      "fahrenheit": -518
+    },
+    {
+      "celsius": 135.0,
+      "fahrenheit": 275
+    },
+    {
+      "celsius": -220.0,
+      "fahrenheit": -364
+    },
+    {
+      "celsius": -473.89,
+      "fahrenheit": -821
+    },
+    {
+      "celsius": -130.0,
+      "fahrenheit": -202
+    },
+    {
+      "celsius": -356.11,
+      "fahrenheit": -609
+    },
+    {
+      "celsius": -311.67,
+      "fahrenheit": -529
+    },
+    {
+      "celsius": 178.89,
+      "fahrenheit": 354
+    },
+    {
+      "celsius": 11.67,
+      "fahrenheit": 53
+    },
+    {
+      "celsius": -541.67,
+      "fahrenheit": -943
+    },
+    {
+      "celsius": -34.44,
+      "fahrenheit": -30
+    },
+    {
+      "celsius": -502.78,
+      "fahrenheit": -873
+    },
+    {
+      "celsius": 453.33,
+      "fahrenheit": 848
+    },
+    {
+      "celsius": -317.22,
+      "fahrenheit": -539
+    },
+    {
+      "celsius": -410.56,
+      "fahrenheit": -707
+    },
+    {
+      "celsius": -105.0,
+      "fahrenheit": -157
+    },
+    {
+      "celsius": -127.78,
+      "fahrenheit": -198
+    },
+    {
+      "celsius": 531.67,
+      "fahrenheit": 989
+    },
+    {
+      "celsius": -23.33,
+      "fahrenheit": -10
+    },
+    {
+      "celsius": 128.33,
+      "fahrenheit": 263
+    },
+    {
+      "celsius": 215.0,
+      "fahrenheit": 419
+    },
+    {
+      "celsius": 31.67,
+      "fahrenheit": 89
+    },
+    {
+      "celsius": -198.89,
+      "fahrenheit": -326
+    },
+    {
+      "celsius": -174.44,
+      "fahrenheit": -282
+    },
+    {
+      "celsius": -317.78,
+      "fahrenheit": -540
+    },
+    {
+      "celsius": -29.44,
+      "fahrenheit": -21
+    },
+    {
+      "celsius": -68.89,
+      "fahrenheit": -92
+    },
+    {
+      "celsius": 378.89,
+      "fahrenheit": 714
+    },
+    {
+      "celsius": -555.0,
+      "fahrenheit": -967
+    },
+    {
+      "celsius": 72.78,
+      "fahrenheit": 163
+    },
+    {
+      "celsius": -485.0,
+      "fahrenheit": -841
+    },
+    {
+      "celsius": 118.89,
+      "fahrenheit": 246
+    },
+    {
+      "celsius": -112.22,
+      "fahrenheit": -170
+    },
+    {
+      "celsius": -237.22,
+      "fahrenheit": -395
+    },
+    {
+      "celsius": 322.22,
+      "fahrenheit": 612
+    },
+    {
+      "celsius": -28.89,
+      "fahrenheit": -20
+    },
+    {
+      "celsius": 142.78,
+      "fahrenheit": 289
+    },
+    {
+      "celsius": -258.33,
+      "fahrenheit": -433
+    },
+    {
+      "celsius": -542.78,
+      "fahrenheit": -945
+    },
+    {
+      "celsius": 382.22,
+      "fahrenheit": 720
+    },
+    {
+      "celsius": -396.11,
+      "fahrenheit": -681
+    },
+    {
+      "celsius": -468.33,
+      "fahrenheit": -811
+    },
+    {
+      "celsius": 236.67,
+      "fahrenheit": 458
+    },
+    {
+      "celsius": 214.44,
+      "fahrenheit": 418
+    },
+    {
+      "celsius": 198.33,
+      "fahrenheit": 389
+    },
+    {
+      "celsius": 41.67,
+      "fahrenheit": 107
+    },
+    {
+      "celsius": -550.56,
+      "fahrenheit": -959
+    },
+    {
+      "celsius": 344.44,
+      "fahrenheit": 652
+    },
+    {
+      "celsius": 36.11,
+      "fahrenheit": 97
+    },
+    {
+      "celsius": 517.78,
+      "fahrenheit": 964
+    },
+    {
+      "celsius": 248.89,
+      "fahrenheit": 480
+    },
+    {
+      "celsius": 536.67,
+      "fahrenheit": 998
+    },
+    {
+      "celsius": 496.11,
+      "fahrenheit": 925
+    },
+    {
+      "celsius": 420.0,
+      "fahrenheit": 788
+    },
+    {
+      "celsius": 138.33,
+      "fahrenheit": 281
+    },
+    {
+      "celsius": 218.33,
+      "fahrenheit": 425
+    },
+    {
+      "celsius": -449.44,
+      "fahrenheit": -777
+    },
+    {
+      "celsius": -531.11,
+      "fahrenheit": -924
+    },
+    {
+      "celsius": 228.89,
+      "fahrenheit": 444
+    },
+    {
+      "celsius": -306.11,
+      "fahrenheit": -519
+    },
+    {
+      "celsius": -114.44,
+      "fahrenheit": -174
+    },
+    {
+      "celsius": -6.67,
+      "fahrenheit": 20
+    },
+    {
+      "celsius": -216.11,
+      "fahrenheit": -357
+    },
+    {
+      "celsius": -295.0,
+      "fahrenheit": -499
+    },
+    {
+      "celsius": 207.22,
+      "fahrenheit": 405
+    },
+    {
+      "celsius": 59.44,
+      "fahrenheit": 139
+    },
+    {
+      "celsius": -383.33,
+      "fahrenheit": -658
+    },
+    {
+      "celsius": -529.44,
+      "fahrenheit": -921
+    },
+    {
+      "celsius": -242.22,
+      "fahrenheit": -404
+    },
+    {
+      "celsius": -535.0,
+      "fahrenheit": -931
+    },
+    {
+      "celsius": 406.11,
+      "fahrenheit": 763
+    },
+    {
+      "celsius": 132.78,
+      "fahrenheit": 271
+    },
+    {
+      "celsius": -354.44,
+      "fahrenheit": -606
+    },
+    {
+      "celsius": -281.11,
+      "fahrenheit": -474
+    },
+    {
+      "celsius": 515.56,
+      "fahrenheit": 960
+    },
+    {
+      "celsius": -202.22,
+      "fahrenheit": -332
+    },
+    {
+      "celsius": 405.56,
+      "fahrenheit": 762
+    },
+    {
+      "celsius": 68.33,
+      "fahrenheit": 155
+    },
+    {
+      "celsius": -285.0,
+      "fahrenheit": -481
+    },
+    {
+      "celsius": 251.67,
+      "fahrenheit": 485
+    },
+    {
+      "celsius": 506.11,
+      "fahrenheit": 943
+    },
+    {
+      "celsius": 48.33,
+      "fahrenheit": 119
+    },
+    {
+      "celsius": 482.22,
+      "fahrenheit": 900
+    },
+    {
+      "celsius": 403.89,
+      "fahrenheit": 759
+    },
+    {
+      "celsius": 532.22,
+      "fahrenheit": 990
+    },
+    {
+      "celsius": -365.0,
+      "fahrenheit": -625
+    },
+    {
+      "celsius": 370.0,
+      "fahrenheit": 698
+    },
+    {
+      "celsius": 371.11,
+      "fahrenheit": 700
+    },
+    {
+      "celsius": 360.0,
+      "fahrenheit": 680
+    },
+    {
+      "celsius": -477.78,
+      "fahrenheit": -828
+    },
+    {
+      "celsius": 378.33,
+      "fahrenheit": 713
+    },
+    {
+      "celsius": 311.67,
+      "fahrenheit": 593
+    },
+    {
+      "celsius": -175.0,
+      "fahrenheit": -283
+    },
+    {
+      "celsius": -393.89,
+      "fahrenheit": -677
+    },
+    {
+      "celsius": 258.89,
+      "fahrenheit": 498
+    },
+    {
+      "celsius": 25.56,
+      "fahrenheit": 78
+    },
+    {
+      "celsius": -101.67,
+      "fahrenheit": -151
+    },
+    {
+      "celsius": -537.22,
+      "fahrenheit": -935
+    },
+    {
+      "celsius": 83.33,
+      "fahrenheit": 182
+    },
+    {
+      "celsius": -151.11,
+      "fahrenheit": -240
+    },
+    {
+      "celsius": 458.89,
+      "fahrenheit": 858
+    },
+    {
+      "celsius": -279.44,
+      "fahrenheit": -471
+    },
+    {
+      "celsius": 18.89,
+      "fahrenheit": 66
+    },
+    {
+      "celsius": 503.33,
+      "fahrenheit": 938
+    },
+    {
+      "celsius": 356.67,
+      "fahrenheit": 674
+    },
+    {
+      "celsius": 300.0,
+      "fahrenheit": 572
+    },
+    {
+      "celsius": -484.44,
+      "fahrenheit": -840
+    },
+    {
+      "celsius": 158.33,
+      "fahrenheit": 317
+    },
+    {
+      "celsius": 420.56,
+      "fahrenheit": 789
+    },
+    {
+      "celsius": 107.22,
+      "fahrenheit": 225
+    },
+    {
+      "celsius": -277.78,
+      "fahrenheit": -468
+    },
+    {
+      "celsius": 516.11,
+      "fahrenheit": 961
+    },
+    {
+      "celsius": 482.78,
+      "fahrenheit": 901
+    },
+    {
+      "celsius": 200.56,
+      "fahrenheit": 393
+    },
+    {
+      "celsius": 369.44,
+      "fahrenheit": 697
+    },
+    {
+      "celsius": -540.0,
+      "fahrenheit": -940
+    },
+    {
+      "celsius": -487.22,
+      "fahrenheit": -845
+    },
+    {
+      "celsius": 472.78,
+      "fahrenheit": 883
+    },
+    {
+      "celsius": 365.0,
+      "fahrenheit": 689
+    },
+    {
+      "celsius": -147.78,
+      "fahrenheit": -234
+    },
+    {
+      "celsius": 236.11,
+      "fahrenheit": 457
+    },
+    {
+      "celsius": -222.78,
+      "fahrenheit": -369
+    },
+    {
+      "celsius": -12.78,
+      "fahrenheit": 9
+    },
+    {
+      "celsius": 92.22,
+      "fahrenheit": 198
+    },
+    {
+      "celsius": -412.22,
+      "fahrenheit": -710
+    },
+    {
+      "celsius": -249.44,
+      "fahrenheit": -417
+    },
+    {
+      "celsius": 484.44,
+      "fahrenheit": 904
+    },
+    {
+      "celsius": 22.22,
+      "fahrenheit": 72
+    },
+    {
+      "celsius": -364.44,
+      "fahrenheit": -624
+    },
+    {
+      "celsius": -302.22,
+      "fahrenheit": -512
+    },
+    {
+      "celsius": 18.33,
+      "fahrenheit": 65
+    },
+    {
+      "celsius": -408.89,
+      "fahrenheit": -704
+    },
+    {
+      "celsius": 220.0,
+      "fahrenheit": 428
+    },
+    {
+      "celsius": 235.0,
+      "fahrenheit": 455
+    },
+    {
+      "celsius": -409.44,
+      "fahrenheit": -705
+    },
+    {
+      "celsius": -262.78,
+      "fahrenheit": -441
+    },
+    {
+      "celsius": 512.22,
+      "fahrenheit": 954
+    },
+    {
+      "celsius": -300.56,
+      "fahrenheit": -509
+    },
+    {
+      "celsius": -56.11,
+      "fahrenheit": -69
+    },
+    {
+      "celsius": -270.56,
+      "fahrenheit": -455
+    },
+    {
+      "celsius": -560.0,
+      "fahrenheit": -976
+    },
+    {
+      "celsius": 176.11,
+      "fahrenheit": 349
+    },
+    {
+      "celsius": -41.67,
+      "fahrenheit": -43
+    },
+    {
+      "celsius": -475.56,
+      "fahrenheit": -824
+    },
+    {
+      "celsius": -132.22,
+      "fahrenheit": -206
+    },
+    {
+      "celsius": -53.89,
+      "fahrenheit": -65
+    },
+    {
+      "celsius": -437.22,
+      "fahrenheit": -755
+    },
+    {
+      "celsius": -482.78,
+      "fahrenheit": -837
+    },
+    {
+      "celsius": -336.67,
+      "fahrenheit": -574
+    },
+    {
+      "celsius": 73.33,
+      "fahrenheit": 164
+    },
+    {
+      "celsius": -193.89,
+      "fahrenheit": -317
+    },
+    {
+      "celsius": -87.78,
+      "fahrenheit": -126
+    },
+    {
+      "celsius": -180.56,
+      "fahrenheit": -293
+    },
+    {
+      "celsius": 352.22,
+      "fahrenheit": 666
+    },
+    {
+      "celsius": 203.89,
+      "fahrenheit": 399
+    },
+    {
+      "celsius": -553.33,
+      "fahrenheit": -964
+    },
+    {
+      "celsius": 282.22,
+      "fahrenheit": 540
+    },
+    {
+      "celsius": -561.67,
+      "fahrenheit": -979
+    },
+    {
+      "celsius": -507.78,
+      "fahrenheit": -882
+    },
+    {
+      "celsius": 180.0,
+      "fahrenheit": 356
+    },
+    {
+      "celsius": 514.44,
+      "fahrenheit": 958
+    },
+    {
+      "celsius": 81.11,
+      "fahrenheit": 178
+    },
+    {
+      "celsius": 474.44,
+      "fahrenheit": 886
+    },
+    {
+      "celsius": 128.89,
+      "fahrenheit": 264
+    },
+    {
+      "celsius": -276.11,
+      "fahrenheit": -465
+    },
+    {
+      "celsius": -267.78,
+      "fahrenheit": -450
+    },
+    {
+      "celsius": 307.78,
+      "fahrenheit": 586
+    },
+    {
+      "celsius": -213.89,
+      "fahrenheit": -353
+    },
+    {
+      "celsius": -547.22,
+      "fahrenheit": -953
+    },
+    {
+      "celsius": -526.67,
+      "fahrenheit": -916
+    },
+    {
+      "celsius": 47.78,
+      "fahrenheit": 118
+    },
+    {
+      "celsius": -406.11,
+      "fahrenheit": -699
+    },
+    {
+      "celsius": -467.78,
+      "fahrenheit": -810
+    },
+    {
+      "celsius": 38.89,
+      "fahrenheit": 102
+    },
+    {
+      "celsius": 408.89,
+      "fahrenheit": 768
+    },
+    {
+      "celsius": -380.0,
+      "fahrenheit": -652
+    },
+    {
+      "celsius": -207.22,
+      "fahrenheit": -341
+    },
+    {
+      "celsius": 319.44,
+      "fahrenheit": 607
+    },
+    {
+      "celsius": 333.89,
+      "fahrenheit": 633
+    },
+    {
+      "celsius": -408.33,
+      "fahrenheit": -703
+    },
+    {
+      "celsius": -111.67,
+      "fahrenheit": -169
+    },
+    {
+      "celsius": 533.89,
+      "fahrenheit": 993
+    },
+    {
+      "celsius": 445.56,
+      "fahrenheit": 834
+    },
+    {
+      "celsius": -202.78,
+      "fahrenheit": -333
+    },
+    {
+      "celsius": -498.89,
+      "fahrenheit": -866
+    },
+    {
+      "celsius": -356.67,
+      "fahrenheit": -610
+    },
+    {
+      "celsius": -55.56,
+      "fahrenheit": -68
+    },
+    {
+      "celsius": -181.11,
+      "fahrenheit": -294
+    },
+    {
+      "celsius": -232.78,
+      "fahrenheit": -387
+    },
+    {
+      "celsius": -413.89,
+      "fahrenheit": -713
+    },
+    {
+      "celsius": -20.0,
+      "fahrenheit": -4
+    },
+    {
+      "celsius": 32.78,
+      "fahrenheit": 91
+    },
+    {
+      "celsius": 211.67,
+      "fahrenheit": 413
+    },
+    {
+      "celsius": 259.44,
+      "fahrenheit": 499
+    },
+    {
+      "celsius": -493.89,
+      "fahrenheit": -857
+    },
+    {
+      "celsius": -221.67,
+      "fahrenheit": -367
+    },
+    {
+      "celsius": -173.33,
+      "fahrenheit": -280
+    },
+    {
+      "celsius": 267.22,
+      "fahrenheit": 513
+    },
+    {
+      "celsius": 213.33,
+      "fahrenheit": 416
+    },
+    {
+      "celsius": 409.44,
+      "fahrenheit": 769
+    },
+    {
+      "celsius": -24.44,
+      "fahrenheit": -12
+    },
+    {
+      "celsius": -397.78,
+      "fahrenheit": -684
+    },
+    {
+      "celsius": -52.22,
+      "fahrenheit": -62
+    },
+    {
+      "celsius": 250.56,
+      "fahrenheit": 483
+    },
+    {
+      "celsius": -499.44,
+      "fahrenheit": -867
+    },
+    {
+      "celsius": -445.56,
+      "fahrenheit": -770
+    },
+    {
+      "celsius": -62.78,
+      "fahrenheit": -81
+    },
+    {
+      "celsius": 402.22,
+      "fahrenheit": 756
+    },
+    {
+      "celsius": 174.44,
+      "fahrenheit": 346
+    },
+    {
+      "celsius": 208.33,
+      "fahrenheit": 407
+    },
+    {
+      "celsius": 168.89,
+      "fahrenheit": 336
+    },
+    {
+      "celsius": -46.67,
+      "fahrenheit": -52
+    },
+    {
+      "celsius": 493.89,
+      "fahrenheit": 921
+    },
+    {
+      "celsius": 125.56,
+      "fahrenheit": 258
+    },
+    {
+      "celsius": 209.44,
+      "fahrenheit": 409
+    },
+    {
+      "celsius": 130.0,
+      "fahrenheit": 266
+    },
+    {
+      "celsius": 483.33,
+      "fahrenheit": 902
+    },
+    {
+      "celsius": 423.89,
+      "fahrenheit": 795
+    },
+    {
+      "celsius": 143.89,
+      "fahrenheit": 291
+    },
+    {
+      "celsius": 436.11,
+      "fahrenheit": 817
+    },
+    {
+      "celsius": 325.56,
+      "fahrenheit": 618
+    },
+    {
+      "celsius": 152.22,
+      "fahrenheit": 306
+    },
+    {
+      "celsius": -140.56,
+      "fahrenheit": -221
+    },
+    {
+      "celsius": -286.67,
+      "fahrenheit": -484
+    },
+    {
+      "celsius": 207.78,
+      "fahrenheit": 406
+    },
+    {
+      "celsius": -218.89,
+      "fahrenheit": -362
+    },
+    {
+      "celsius": -296.11,
+      "fahrenheit": -501
+    },
+    {
+      "celsius": -305.0,
+      "fahrenheit": -517
+    },
+    {
+      "celsius": 112.78,
+      "fahrenheit": 235
+    },
+    {
+      "celsius": 351.67,
+      "fahrenheit": 665
+    },
+    {
+      "celsius": -207.78,
+      "fahrenheit": -342
+    },
+    {
+      "celsius": -567.78,
+      "fahrenheit": -990
+    },
+    {
+      "celsius": -302.78,
+      "fahrenheit": -513
+    },
+    {
+      "celsius": -573.33,
+      "fahrenheit": -1000
+    },
+    {
+      "celsius": -323.89,
+      "fahrenheit": -551
+    },
+    {
+      "celsius": 20.56,
+      "fahrenheit": 69
+    },
+    {
+      "celsius": -117.78,
+      "fahrenheit": -180
+    },
+    {
+      "celsius": -158.33,
+      "fahrenheit": -253
+    },
+    {
+      "celsius": 372.78,
+      "fahrenheit": 703
+    },
+    {
+      "celsius": 20.0,
+      "fahrenheit": 68
+    },
+    {
+      "celsius": 80.56,
+      "fahrenheit": 177
+    },
+    {
+      "celsius": 347.22,
+      "fahrenheit": 657
+    },
+    {
+      "celsius": 427.22,
+      "fahrenheit": 801
+    },
+    {
+      "celsius": 437.78,
+      "fahrenheit": 820
+    },
+    {
+      "celsius": 522.22,
+      "fahrenheit": 972
+    },
+    {
+      "celsius": 509.44,
+      "fahrenheit": 949
+    },
+    {
+      "celsius": -327.22,
+      "fahrenheit": -557
+    },
+    {
+      "celsius": -461.67,
+      "fahrenheit": -799
+    },
+    {
+      "celsius": 356.11,
+      "fahrenheit": 673
+    },
+    {
+      "celsius": 473.89,
+      "fahrenheit": 885
+    },
+    {
+      "celsius": 109.44,
+      "fahrenheit": 229
+    },
+    {
+      "celsius": -68.33,
+      "fahrenheit": -91
+    },
+    {
+      "celsius": -379.44,
+      "fahrenheit": -651
+    },
+    {
+      "celsius": -403.33,
+      "fahrenheit": -694
+    },
+    {
+      "celsius": 37.22,
+      "fahrenheit": 99
+    },
+    {
+      "celsius": 143.33,
+      "fahrenheit": 290
+    },
+    {
+      "celsius": 477.22,
+      "fahrenheit": 891
+    },
+    {
+      "celsius": -343.89,
+      "fahrenheit": -587
+    },
+    {
+      "celsius": 146.67,
+      "fahrenheit": 296
+    },
+    {
+      "celsius": 133.33,
+      "fahrenheit": 272
+    },
+    {
+      "celsius": -121.67,
+      "fahrenheit": -187
+    },
+    {
+      "celsius": -154.44,
+      "fahrenheit": -246
+    },
+    {
+      "celsius": 412.22,
+      "fahrenheit": 774
+    },
+    {
+      "celsius": 353.89,
+      "fahrenheit": 669
+    },
+    {
+      "celsius": -561.11,
+      "fahrenheit": -978
+    },
+    {
+      "celsius": 0.0,
+      "fahrenheit": 32
+    },
+    {
+      "celsius": -9.44,
+      "fahrenheit": 15
+    },
+    {
+      "celsius": 383.33,
+      "fahrenheit": 722
+    },
+    {
+      "celsius": -492.22,
+      "fahrenheit": -854
+    },
+    {
+      "celsius": -186.67,
+      "fahrenheit": -304
+    },
+    {
+      "celsius": 483.89,
+      "fahrenheit": 903
+    },
+    {
+      "celsius": -36.67,
+      "fahrenheit": -34
+    },
+    {
+      "celsius": -238.33,
+      "fahrenheit": -397
+    },
+    {
+      "celsius": -361.11,
+      "fahrenheit": -618
+    },
+    {
+      "celsius": 10.0,
+      "fahrenheit": 50
+    },
+    {
+      "celsius": -401.67,
+      "fahrenheit": -691
+    },
+    {
+      "celsius": -498.33,
+      "fahrenheit": -865
+    },
+    {
+      "celsius": 192.22,
+      "fahrenheit": 378
+    },
+    {
+      "celsius": 398.89,
+      "fahrenheit": 750
+    },
+    {
+      "celsius": -322.78,
+      "fahrenheit": -549
+    },
+    {
+      "celsius": -502.22,
+      "fahrenheit": -872
+    },
+    {
+      "celsius": -155.56,
+      "fahrenheit": -248
+    },
+    {
+      "celsius": 12.22,
+      "fahrenheit": 54
+    },
+    {
+      "celsius": -556.11,
+      "fahrenheit": -969
+    },
+    {
+      "celsius": 315.56,
+      "fahrenheit": 600
+    },
+    {
+      "celsius": 60.0,
+      "fahrenheit": 140
+    },
+    {
+      "celsius": -11.67,
+      "fahrenheit": 11
+    },
+    {
+      "celsius": 92.78,
+      "fahrenheit": 199
+    },
+    {
+      "celsius": 460.0,
+      "fahrenheit": 860
+    },
+    {
+      "celsius": -16.67,
+      "fahrenheit": 2
+    },
+    {
+      "celsius": 298.89,
+      "fahrenheit": 570
+    },
+    {
+      "celsius": -246.11,
+      "fahrenheit": -411
+    },
+    {
+      "celsius": 381.11,
+      "fahrenheit": 718
+    },
+    {
+      "celsius": 447.78,
+      "fahrenheit": 838
+    },
+    {
+      "celsius": 510.56,
+      "fahrenheit": 951
+    },
+    {
+      "celsius": 270.56,
+      "fahrenheit": 519
+    },
+    {
+      "celsius": -381.11,
+      "fahrenheit": -654
+    },
+    {
+      "celsius": 295.56,
+      "fahrenheit": 564
+    },
+    {
+      "celsius": -363.89,
+      "fahrenheit": -623
+    },
+    {
+      "celsius": -372.22,
+      "fahrenheit": -638
+    },
+    {
+      "celsius": 262.22,
+      "fahrenheit": 504
+    },
+    {
+      "celsius": 466.67,
+      "fahrenheit": 872
+    },
+    {
+      "celsius": -117.22,
+      "fahrenheit": -179
+    },
+    {
+      "celsius": 321.11,
+      "fahrenheit": 610
+    },
+    {
+      "celsius": -441.11,
+      "fahrenheit": -762
+    },
+    {
+      "celsius": 302.78,
+      "fahrenheit": 577
+    },
+    {
+      "celsius": 427.78,
+      "fahrenheit": 802
+    },
+    {
+      "celsius": 246.11,
+      "fahrenheit": 475
+    },
+    {
+      "celsius": -365.56,
+      "fahrenheit": -626
+    },
+    {
+      "celsius": -26.11,
+      "fahrenheit": -15
+    },
+    {
+      "celsius": 17.22,
+      "fahrenheit": 63
+    },
+    {
+      "celsius": 187.78,
+      "fahrenheit": 370
+    },
+    {
+      "celsius": -234.44,
+      "fahrenheit": -390
+    },
+    {
+      "celsius": -47.78,
+      "fahrenheit": -54
+    },
+    {
+      "celsius": 6.11,
+      "fahrenheit": 43
+    },
+    {
+      "celsius": -178.33,
+      "fahrenheit": -289
+    },
+    {
+      "celsius": -513.33,
+      "fahrenheit": -892
+    },
+    {
+      "celsius": 489.44,
+      "fahrenheit": 913
+    },
+    {
+      "celsius": 127.22,
+      "fahrenheit": 261
+    },
+    {
+      "celsius": 70.56,
+      "fahrenheit": 159
+    },
+    {
+      "celsius": -43.33,
+      "fahrenheit": -46
+    },
+    {
+      "celsius": -288.33,
+      "fahrenheit": -487
+    },
+    {
+      "celsius": 425.0,
+      "fahrenheit": 797
+    },
+    {
+      "celsius": 186.67,
+      "fahrenheit": 368
+    },
+    {
+      "celsius": -120.0,
+      "fahrenheit": -184
+    },
+    {
+      "celsius": -131.67,
+      "fahrenheit": -205
+    },
+    {
+      "celsius": -472.22,
+      "fahrenheit": -818
+    },
+    {
+      "celsius": -63.89,
+      "fahrenheit": -83
+    },
+    {
+      "celsius": 233.89,
+      "fahrenheit": 453
+    },
+    {
+      "celsius": -58.33,
+      "fahrenheit": -73
+    },
+    {
+      "celsius": -318.89,
+      "fahrenheit": -542
+    },
+    {
+      "celsius": -462.22,
+      "fahrenheit": -800
+    },
+    {
+      "celsius": 0.56,
+      "fahrenheit": 33
+    },
+    {
+      "celsius": 526.67,
+      "fahrenheit": 980
+    },
+    {
+      "celsius": 350.0,
+      "fahrenheit": 662
+    },
+    {
+      "celsius": -180.0,
+      "fahrenheit": -292
+    },
+    {
+      "celsius": 390.0,
+      "fahrenheit": 734
+    },
+    {
+      "celsius": 363.33,
+      "fahrenheit": 686
+    },
+    {
+      "celsius": -528.89,
+      "fahrenheit": -920
+    },
+    {
+      "celsius": 100.0,
+      "fahrenheit": 212
+    },
+    {
+      "celsius": 135.56,
+      "fahrenheit": 276
+    },
+    {
+      "celsius": 148.89,
+      "fahrenheit": 300
+    },
+    {
+      "celsius": 408.33,
+      "fahrenheit": 767
+    },
+    {
+      "celsius": -321.11,
+      "fahrenheit": -546
+    },
+    {
+      "celsius": 469.44,
+      "fahrenheit": 877
+    },
+    {
+      "celsius": -451.11,
+      "fahrenheit": -780
+    },
+    {
+      "celsius": 490.0,
+      "fahrenheit": 914
+    },
+    {
+      "celsius": -262.22,
+      "fahrenheit": -440
+    },
+    {
+      "celsius": -566.67,
+      "fahrenheit": -988
+    },
+    {
+      "celsius": 500.0,
+      "fahrenheit": 932
+    },
+    {
+      "celsius": 186.11,
+      "fahrenheit": 367
+    },
+    {
+      "celsius": 202.22,
+      "fahrenheit": 396
+    },
+    {
+      "celsius": -144.44,
+      "fahrenheit": -228
+    },
+    {
+      "celsius": -167.78,
+      "fahrenheit": -270
+    },
+    {
+      "celsius": -366.67,
+      "fahrenheit": -628
+    },
+    {
+      "celsius": -339.44,
+      "fahrenheit": -579
+    },
+    {
+      "celsius": -13.33,
+      "fahrenheit": 8
+    },
+    {
+      "celsius": -106.11,
+      "fahrenheit": -159
+    },
+    {
+      "celsius": -103.89,
+      "fahrenheit": -155
+    },
+    {
+      "celsius": 445.0,
+      "fahrenheit": 833
+    },
+    {
+      "celsius": 2.22,
+      "fahrenheit": 36
+    },
+    {
+      "celsius": -269.44,
+      "fahrenheit": -453
+    },
+    {
+      "celsius": 212.22,
+      "fahrenheit": 414
+    },
+    {
+      "celsius": 260.0,
+      "fahrenheit": 500
+    },
+    {
+      "celsius": 103.89,
+      "fahrenheit": 219
+    },
+    {
+      "celsius": 171.11,
+      "fahrenheit": 340
+    },
+    {
+      "celsius": -93.33,
+      "fahrenheit": -136
+    },
+    {
+      "celsius": 332.22,
+      "fahrenheit": 630
+    },
+    {
+      "celsius": -358.89,
+      "fahrenheit": -614
+    },
+    {
+      "celsius": 428.89,
+      "fahrenheit": 804
+    },
+    {
+      "celsius": -562.78,
+      "fahrenheit": -981
+    },
+    {
+      "celsius": 79.44,
+      "fahrenheit": 175
+    },
+    {
+      "celsius": -506.67,
+      "fahrenheit": -880
+    },
+    {
+      "celsius": -231.11,
+      "fahrenheit": -384
+    },
+    {
+      "celsius": -426.11,
+      "fahrenheit": -735
+    },
+    {
+      "celsius": -475.0,
+      "fahrenheit": -823
+    },
+    {
+      "celsius": 271.11,
+      "fahrenheit": 520
+    },
+    {
+      "celsius": 296.67,
+      "fahrenheit": 566
+    },
+    {
+      "celsius": -97.78,
+      "fahrenheit": -144
+    },
+    {
+      "celsius": 53.33,
+      "fahrenheit": 128
+    },
+    {
+      "celsius": -482.22,
+      "fahrenheit": -836
+    },
+    {
+      "celsius": -460.0,
+      "fahrenheit": -796
+    },
+    {
+      "celsius": 537.22,
+      "fahrenheit": 999
+    },
+    {
+      "celsius": 5.0,
+      "fahrenheit": 41
+    },
+    {
+      "celsius": 301.11,
+      "fahrenheit": 574
+    },
+    {
+      "celsius": 309.44,
+      "fahrenheit": 589
+    },
+    {
+      "celsius": 157.22,
+      "fahrenheit": 315
+    },
+    {
+      "celsius": 293.33,
+      "fahrenheit": 560
+    },
+    {
+      "celsius": -108.89,
+      "fahrenheit": -164
+    },
+    {
+      "celsius": 99.44,
+      "fahrenheit": 211
+    },
+    {
+      "celsius": -312.22,
+      "fahrenheit": -530
+    },
+    {
+      "celsius": 502.78,
+      "fahrenheit": 937
+    },
+    {
+      "celsius": -420.0,
+      "fahrenheit": -724
+    },
+    {
+      "celsius": 38.33,
+      "fahrenheit": 101
+    },
+    {
+      "celsius": 243.89,
+      "fahrenheit": 471
+    },
+    {
+      "celsius": -268.89,
+      "fahrenheit": -452
+    },
+    {
+      "celsius": 273.89,
+      "fahrenheit": 525
+    },
+    {
+      "celsius": -186.11,
+      "fahrenheit": -303
+    },
+    {
+      "celsius": -0.56,
+      "fahrenheit": 31
+    },
+    {
+      "celsius": -429.44,
+      "fahrenheit": -741
+    },
+    {
+      "celsius": 161.67,
+      "fahrenheit": 323
+    },
+    {
+      "celsius": -430.0,
+      "fahrenheit": -742
+    },
+    {
+      "celsius": 303.33,
+      "fahrenheit": 578
+    },
+    {
+      "celsius": -544.44,
+      "fahrenheit": -948
+    },
+    {
+      "celsius": -275.0,
+      "fahrenheit": -463
+    },
+    {
+      "celsius": 43.33,
+      "fahrenheit": 110
+    },
+    {
+      "celsius": 96.67,
+      "fahrenheit": 206
+    },
+    {
+      "celsius": -400.0,
+      "fahrenheit": -688
+    },
+    {
+      "celsius": -506.11,
+      "fahrenheit": -879
+    },
+    {
+      "celsius": 439.44,
+      "fahrenheit": 823
+    },
+    {
+      "celsius": 7.78,
+      "fahrenheit": 46
+    },
+    {
+      "celsius": -328.33,
+      "fahrenheit": -559
+    },
+    {
+      "celsius": -177.22,
+      "fahrenheit": -287
+    },
+    {
+      "celsius": 52.22,
+      "fahrenheit": 126
+    },
+    {
+      "celsius": 508.89,
+      "fahrenheit": 948
+    },
+    {
+      "celsius": -320.56,
+      "fahrenheit": -545
+    },
+    {
+      "celsius": -464.44,
+      "fahrenheit": -804
+    },
+    {
+      "celsius": 88.89,
+      "fahrenheit": 192
+    },
+    {
+      "celsius": 377.22,
+      "fahrenheit": 711
+    },
+    {
+      "celsius": 238.89,
+      "fahrenheit": 462
+    },
+    {
+      "celsius": 387.22,
+      "fahrenheit": 729
+    },
+    {
+      "celsius": 287.22,
+      "fahrenheit": 549
+    },
+    {
+      "celsius": -257.22,
+      "fahrenheit": -431
+    },
+    {
+      "celsius": -270.0,
+      "fahrenheit": -454
+    },
+    {
+      "celsius": -347.22,
+      "fahrenheit": -593
+    },
+    {
+      "celsius": -297.78,
+      "fahrenheit": -504
+    },
+    {
+      "celsius": 100.56,
+      "fahrenheit": 213
+    },
+    {
+      "celsius": -250.56,
+      "fahrenheit": -419
+    },
+    {
+      "celsius": 257.22,
+      "fahrenheit": 495
+    },
+    {
+      "celsius": 19.44,
+      "fahrenheit": 67
+    },
+    {
+      "celsius": 137.22,
+      "fahrenheit": 279
+    },
+    {
+      "celsius": 501.11,
+      "fahrenheit": 934
+    },
+    {
+      "celsius": 413.33,
+      "fahrenheit": 776
+    },
+    {
+      "celsius": 290.56,
+      "fahrenheit": 555
+    },
+    {
+      "celsius": 253.33,
+      "fahrenheit": 488
+    },
+    {
+      "celsius": -283.89,
+      "fahrenheit": -479
+    },
+    {
+      "celsius": 460.56,
+      "fahrenheit": 861
+    },
+    {
+      "celsius": -417.22,
+      "fahrenheit": -719
+    },
+    {
+      "celsius": 451.11,
+      "fahrenheit": 844
+    },
+    {
+      "celsius": -250.0,
+      "fahrenheit": -418
+    },
+    {
+      "celsius": 32.22,
+      "fahrenheit": 90
+    },
+    {
+      "celsius": -332.78,
+      "fahrenheit": -567
+    },
+    {
+      "celsius": 340.56,
+      "fahrenheit": 645
+    },
+    {
+      "celsius": 525.0,
+      "fahrenheit": 977
+    },
+    {
+      "celsius": 47.22,
+      "fahrenheit": 117
+    },
+    {
+      "celsius": -525.56,
+      "fahrenheit": -914
+    },
+    {
+      "celsius": -209.44,
+      "fahrenheit": -345
+    },
+    {
+      "celsius": 380.56,
+      "fahrenheit": 717
+    },
+    {
+      "celsius": 206.11,
+      "fahrenheit": 403
+    },
+    {
+      "celsius": 449.44,
+      "fahrenheit": 841
+    },
+    {
+      "celsius": 242.78,
+      "fahrenheit": 469
+    },
+    {
+      "celsius": -471.11,
+      "fahrenheit": -816
+    },
+    {
+      "celsius": -467.22,
+      "fahrenheit": -809
+    },
+    {
+      "celsius": 435.56,
+      "fahrenheit": 816
+    },
+    {
+      "celsius": 65.56,
+      "fahrenheit": 150
+    },
+    {
+      "celsius": 115.56,
+      "fahrenheit": 240
+    },
+    {
+      "celsius": -146.11,
+      "fahrenheit": -231
+    },
+    {
+      "celsius": 428.33,
+      "fahrenheit": 803
+    },
+    {
+      "celsius": -182.22,
+      "fahrenheit": -296
+    },
+    {
+      "celsius": -184.44,
+      "fahrenheit": -300
+    },
+    {
+      "celsius": 56.11,
+      "fahrenheit": 133
+    },
+    {
+      "celsius": 199.44,
+      "fahrenheit": 391
+    },
+    {
+      "celsius": 2.78,
+      "fahrenheit": 37
+    },
+    {
+      "celsius": -436.11,
+      "fahrenheit": -753
+    },
+    {
+      "celsius": -285.56,
+      "fahrenheit": -482
+    },
+    {
+      "celsius": 285.56,
+      "fahrenheit": 546
+    },
+    {
+      "celsius": 102.22,
+      "fahrenheit": 216
+    },
+    {
+      "celsius": 76.67,
+      "fahrenheit": 170
+    },
+    {
+      "celsius": 465.56,
+      "fahrenheit": 870
+    },
+    {
+      "celsius": -478.33,
+      "fahrenheit": -829
+    },
+    {
+      "celsius": -128.89,
+      "fahrenheit": -200
+    },
+    {
+      "celsius": -342.22,
+      "fahrenheit": -584
+    },
+    {
+      "celsius": 322.78,
+      "fahrenheit": 613
+    },
+    {
+      "celsius": 150.0,
+      "fahrenheit": 302
+    },
+    {
+      "celsius": 86.11,
+      "fahrenheit": 187
+    },
+    {
+      "celsius": -101.11,
+      "fahrenheit": -150
+    },
+    {
+      "celsius": -404.44,
+      "fahrenheit": -696
+    },
+    {
+      "celsius": 102.78,
+      "fahrenheit": 217
+    },
+    {
+      "celsius": 501.67,
+      "fahrenheit": 935
+    },
+    {
+      "celsius": -571.11,
+      "fahrenheit": -996
+    },
+    {
+      "celsius": -437.78,
+      "fahrenheit": -756
+    },
+    {
+      "celsius": -374.44,
+      "fahrenheit": -642
+    },
+    {
+      "celsius": -548.33,
+      "fahrenheit": -955
+    },
+    {
+      "celsius": 530.0,
+      "fahrenheit": 986
+    },
+    {
+      "celsius": 495.56,
+      "fahrenheit": 924
+    },
+    {
+      "celsius": -138.33,
+      "fahrenheit": -217
+    },
+    {
+      "celsius": -294.44,
+      "fahrenheit": -498
+    },
+    {
+      "celsius": 284.44,
+      "fahrenheit": 544
+    },
+    {
+      "celsius": -366.11,
+      "fahrenheit": -627
+    },
+    {
+      "celsius": -48.89,
+      "fahrenheit": -56
+    },
+    {
+      "celsius": -248.89,
+      "fahrenheit": -416
+    },
+    {
+      "celsius": 376.67,
+      "fahrenheit": 710
+    },
+    {
+      "celsius": 362.78,
+      "fahrenheit": 685
+    },
+    {
+      "celsius": -501.11,
+      "fahrenheit": -870
+    },
+    {
+      "celsius": 66.67,
+      "fahrenheit": 152
+    },
+    {
+      "celsius": -525.0,
+      "fahrenheit": -913
+    },
+    {
+      "celsius": -518.33,
+      "fahrenheit": -901
+    },
+    {
+      "celsius": 34.44,
+      "fahrenheit": 94
+    },
+    {
+      "celsius": 367.22,
+      "fahrenheit": 693
+    },
+    {
+      "celsius": 441.67,
+      "fahrenheit": 827
+    },
+    {
+      "celsius": 53.89,
+      "fahrenheit": 129
+    },
+    {
+      "celsius": -298.33,
+      "fahrenheit": -505
+    },
+    {
+      "celsius": -59.44,
+      "fahrenheit": -75
+    },
+    {
+      "celsius": 213.89,
+      "fahrenheit": 417
+    },
+    {
+      "celsius": 463.89,
+      "fahrenheit": 867
+    },
+    {
+      "celsius": 314.44,
+      "fahrenheit": 598
+    },
+    {
+      "celsius": -139.44,
+      "fahrenheit": -219
+    },
+    {
+      "celsius": 535.56,
+      "fahrenheit": 996
+    },
+    {
+      "celsius": -438.89,
+      "fahrenheit": -758
+    },
+    {
+      "celsius": -418.89,
+      "fahrenheit": -722
+    },
+    {
+      "celsius": -425.0,
+      "fahrenheit": -733
+    },
+    {
+      "celsius": -308.89,
+      "fahrenheit": -524
+    },
+    {
+      "celsius": -528.33,
+      "fahrenheit": -919
+    },
+    {
+      "celsius": 257.78,
+      "fahrenheit": 496
+    },
+    {
+      "celsius": 66.11,
+      "fahrenheit": 151
+    },
+    {
+      "celsius": -564.44,
+      "fahrenheit": -984
+    },
+    {
+      "celsius": -64.44,
+      "fahrenheit": -84
+    },
+    {
+      "celsius": -517.22,
+      "fahrenheit": -899
+    },
+    {
+      "celsius": 305.56,
+      "fahrenheit": 582
+    },
+    {
+      "celsius": 432.22,
+      "fahrenheit": 810
+    },
+    {
+      "celsius": -197.22,
+      "fahrenheit": -323
+    },
+    {
+      "celsius": 28.89,
+      "fahrenheit": 84
+    },
+    {
+      "celsius": 325.0,
+      "fahrenheit": 617
+    },
+    {
+      "celsius": -361.67,
+      "fahrenheit": -619
+    },
+    {
+      "celsius": 78.89,
+      "fahrenheit": 174
+    },
+    {
+      "celsius": 256.11,
+      "fahrenheit": 493
+    },
+    {
+      "celsius": 396.67,
+      "fahrenheit": 746
+    },
+    {
+      "celsius": -496.11,
+      "fahrenheit": -861
+    },
+    {
+      "celsius": 292.78,
+      "fahrenheit": 559
+    },
+    {
+      "celsius": 286.11,
+      "fahrenheit": 547
+    },
+    {
+      "celsius": -333.33,
+      "fahrenheit": -568
+    },
+    {
+      "celsius": -185.0,
+      "fahrenheit": -301
+    },
+    {
+      "celsius": -194.44,
+      "fahrenheit": -318
+    },
+    {
+      "celsius": -110.56,
+      "fahrenheit": -167
+    },
+    {
+      "celsius": 242.22,
+      "fahrenheit": 468
+    },
+    {
+      "celsius": -10.0,
+      "fahrenheit": 14
+    },
+    {
+      "celsius": -545.0,
+      "fahrenheit": -949
+    },
+    {
+      "celsius": 131.11,
+      "fahrenheit": 268
+    },
+    {
+      "celsius": -15.0,
+      "fahrenheit": 5
+    },
+    {
+      "celsius": -136.11,
+      "fahrenheit": -213
+    },
+    {
+      "celsius": 113.33,
+      "fahrenheit": 236
+    },
+    {
+      "celsius": -37.78,
+      "fahrenheit": -36
+    },
+    {
+      "celsius": 60.56,
+      "fahrenheit": 141
+    },
+    {
+      "celsius": -417.78,
+      "fahrenheit": -720
+    },
+    {
+      "celsius": -375.0,
+      "fahrenheit": -643
+    },
+    {
+      "celsius": -67.22,
+      "fahrenheit": -89
+    },
+    {
+      "celsius": -22.78,
+      "fahrenheit": -9
+    },
+    {
+      "celsius": 487.78,
+      "fahrenheit": 910
+    },
+    {
+      "celsius": 481.67,
+      "fahrenheit": 899
+    },
+    {
+      "celsius": -60.0,
+      "fahrenheit": -76
+    },
+    {
+      "celsius": -345.0,
+      "fahrenheit": -589
+    },
+    {
+      "celsius": -485.56,
+      "fahrenheit": -842
+    },
+    {
+      "celsius": 346.67,
+      "fahrenheit": 656
+    },
+    {
+      "celsius": -536.11,
+      "fahrenheit": -933
+    },
+    {
+      "celsius": 475.0,
+      "fahrenheit": 887
+    },
+    {
+      "celsius": 310.0,
+      "fahrenheit": 590
+    },
+    {
+      "celsius": 258.33,
+      "fahrenheit": 497
+    },
+    {
+      "celsius": -157.78,
+      "fahrenheit": -252
+    },
+    {
+      "celsius": 115.0,
+      "fahrenheit": 239
+    },
+    {
+      "celsius": 50.56,
+      "fahrenheit": 123
+    },
+    {
+      "celsius": -287.22,
+      "fahrenheit": -485
+    },
+    {
+      "celsius": 297.78,
+      "fahrenheit": 568
+    },
+    {
+      "celsius": -357.22,
+      "fahrenheit": -611
+    },
+    {
+      "celsius": 61.67,
+      "fahrenheit": 143
+    },
+    {
+      "celsius": 203.33,
+      "fahrenheit": 398
+    },
+    {
+      "celsius": -435.0,
+      "fahrenheit": -751
+    },
+    {
+      "celsius": 154.44,
+      "fahrenheit": 310
+    },
+    {
+      "celsius": -481.67,
+      "fahrenheit": -835
+    },
+    {
+      "celsius": 383.89,
+      "fahrenheit": 723
+    },
+    {
+      "celsius": 397.22,
+      "fahrenheit": 747
+    },
+    {
+      "celsius": 310.56,
+      "fahrenheit": 591
+    },
+    {
+      "celsius": -191.11,
+      "fahrenheit": -312
+    },
+    {
+      "celsius": -367.78,
+      "fahrenheit": -630
+    },
+    {
+      "celsius": 39.44,
+      "fahrenheit": 103
+    },
+    {
+      "celsius": -418.33,
+      "fahrenheit": -721
+    },
+    {
+      "celsius": 491.67,
+      "fahrenheit": 917
+    },
+    {
+      "celsius": -490.56,
+      "fahrenheit": -851
+    },
+    {
+      "celsius": -12.22,
+      "fahrenheit": 10
+    },
+    {
+      "celsius": -256.11,
+      "fahrenheit": -429
+    },
+    {
+      "celsius": 169.44,
+      "fahrenheit": 337
+    },
+    {
+      "celsius": -46.11,
+      "fahrenheit": -51
+    },
+    {
+      "celsius": 173.33,
+      "fahrenheit": 344
+    },
+    {
+      "celsius": 323.89,
+      "fahrenheit": 615
+    },
+    {
+      "celsius": -293.33,
+      "fahrenheit": -496
+    },
+    {
+      "celsius": 339.44,
+      "fahrenheit": 643
+    },
+    {
+      "celsius": -422.78,
+      "fahrenheit": -729
+    },
+    {
+      "celsius": -480.0,
+      "fahrenheit": -832
+    },
+    {
+      "celsius": 433.33,
+      "fahrenheit": 812
+    },
+    {
+      "celsius": 307.22,
+      "fahrenheit": 585
+    },
+    {
+      "celsius": -8.33,
+      "fahrenheit": 17
+    },
+    {
+      "celsius": -466.11,
+      "fahrenheit": -807
+    },
+    {
+      "celsius": -318.33,
+      "fahrenheit": -541
+    },
+    {
+      "celsius": 72.22,
+      "fahrenheit": 162
+    },
+    {
+      "celsius": 455.56,
+      "fahrenheit": 852
+    },
+    {
+      "celsius": 299.44,
+      "fahrenheit": 571
+    },
+    {
+      "celsius": 136.11,
+      "fahrenheit": 277
+    },
+    {
+      "celsius": 371.67,
+      "fahrenheit": 701
+    },
+    {
+      "celsius": 167.78,
+      "fahrenheit": 334
+    },
+    {
+      "celsius": 390.56,
+      "fahrenheit": 735
+    },
+    {
+      "celsius": 15.0,
+      "fahrenheit": 59
+    },
+    {
+      "celsius": 120.56,
+      "fahrenheit": 249
+    },
+    {
+      "celsius": -450.0,
+      "fahrenheit": -778
+    },
+    {
+      "celsius": 78.33,
+      "fahrenheit": 173
+    },
+    {
+      "celsius": 486.67,
+      "fahrenheit": 908
+    },
+    {
+      "celsius": 105.56,
+      "fahrenheit": 222
+    },
+    {
+      "celsius": -18.89,
+      "fahrenheit": -2
+    },
+    {
+      "celsius": 517.22,
+      "fahrenheit": 963
+    },
+    {
+      "celsius": -256.67,
+      "fahrenheit": -430
+    },
+    {
+      "celsius": -552.78,
+      "fahrenheit": -963
+    },
+    {
+      "celsius": -245.56,
+      "fahrenheit": -410
+    },
+    {
+      "celsius": -198.33,
+      "fahrenheit": -325
+    },
+    {
+      "celsius": -490.0,
+      "fahrenheit": -850
+    },
+    {
+      "celsius": -192.78,
+      "fahrenheit": -315
+    },
+    {
+      "celsius": 497.78,
+      "fahrenheit": 928
+    },
+    {
+      "celsius": -171.67,
+      "fahrenheit": -277
+    },
+    {
+      "celsius": -313.89,
+      "fahrenheit": -533
+    },
+    {
+      "celsius": -463.89,
+      "fahrenheit": -803
+    },
+    {
+      "celsius": -554.44,
+      "fahrenheit": -966
+    },
+    {
+      "celsius": 98.89,
+      "fahrenheit": 210
+    },
+    {
+      "celsius": -253.33,
+      "fahrenheit": -424
+    },
+    {
+      "celsius": -334.44,
+      "fahrenheit": -570
+    },
+    {
+      "celsius": 216.11,
+      "fahrenheit": 421
+    },
+    {
+      "celsius": 528.33,
+      "fahrenheit": 983
+    },
+    {
+      "celsius": -244.44,
+      "fahrenheit": -408
+    },
+    {
+      "celsius": 448.89,
+      "fahrenheit": 840
+    },
+    {
+      "celsius": 488.33,
+      "fahrenheit": 911
+    },
+    {
+      "celsius": -126.11,
+      "fahrenheit": -195
+    },
+    {
+      "celsius": 58.89,
+      "fahrenheit": 138
+    },
+    {
+      "celsius": -72.78,
+      "fahrenheit": -99
+    },
+    {
+      "celsius": -193.33,
+      "fahrenheit": -316
+    },
+    {
+      "celsius": -67.78,
+      "fahrenheit": -90
+    },
+    {
+      "celsius": -348.33,
+      "fahrenheit": -595
+    },
+    {
+      "celsius": 222.22,
+      "fahrenheit": 432
+    },
+    {
+      "celsius": 391.67,
+      "fahrenheit": 737
+    },
+    {
+      "celsius": 459.44,
+      "fahrenheit": 859
+    },
+    {
+      "celsius": 329.44,
+      "fahrenheit": 625
+    },
+    {
+      "celsius": 297.22,
+      "fahrenheit": 567
+    },
+    {
+      "celsius": -486.67,
+      "fahrenheit": -844
+    },
+    {
+      "celsius": -380.56,
+      "fahrenheit": -653
+    },
+    {
+      "celsius": -265.0,
+      "fahrenheit": -445
+    },
+    {
+      "celsius": 461.67,
+      "fahrenheit": 863
+    },
+    {
+      "celsius": 395.56,
+      "fahrenheit": 744
+    },
+    {
+      "celsius": 442.22,
+      "fahrenheit": 828
+    },
+    {
+      "celsius": 430.0,
+      "fahrenheit": 806
+    },
+    {
+      "celsius": 380.0,
+      "fahrenheit": 716
+    },
+    {
+      "celsius": -459.44,
+      "fahrenheit": -795
+    },
+    {
+      "celsius": 372.22,
+      "fahrenheit": 702
+    },
+    {
+      "celsius": 166.11,
+      "fahrenheit": 331
+    },
+    {
+      "celsius": -237.78,
+      "fahrenheit": -396
+    },
+    {
+      "celsius": 93.89,
+      "fahrenheit": 201
+    },
+    {
+      "celsius": 125.0,
+      "fahrenheit": 257
+    },
+    {
+      "celsius": -403.89,
+      "fahrenheit": -695
+    },
+    {
+      "celsius": 287.78,
+      "fahrenheit": 550
+    },
+    {
+      "celsius": -159.44,
+      "fahrenheit": -255
+    },
+    {
+      "celsius": 392.78,
+      "fahrenheit": 739
+    },
+    {
+      "celsius": 106.67,
+      "fahrenheit": 224
+    },
+    {
+      "celsius": -168.33,
+      "fahrenheit": -271
+    },
+    {
+      "celsius": -393.33,
+      "fahrenheit": -676
+    },
+    {
+      "celsius": -476.11,
+      "fahrenheit": -825
+    },
+    {
+      "celsius": -52.78,
+      "fahrenheit": -63
+    },
+    {
+      "celsius": 519.44,
+      "fahrenheit": 967
+    },
+    {
+      "celsius": 250.0,
+      "fahrenheit": 482
+    },
+    {
+      "celsius": -293.89,
+      "fahrenheit": -497
+    },
+    {
+      "celsius": -241.11,
+      "fahrenheit": -402
+    },
+    {
+      "celsius": 80.0,
+      "fahrenheit": 176
+    },
+    {
+      "celsius": -21.67,
+      "fahrenheit": -7
+    },
+    {
+      "celsius": 168.33,
+      "fahrenheit": 335
+    },
+    {
+      "celsius": -489.44,
+      "fahrenheit": -849
+    },
+    {
+      "celsius": -264.44,
+      "fahrenheit": -444
+    },
+    {
+      "celsius": -392.78,
+      "fahrenheit": -675
+    },
+    {
+      "celsius": -70.0,
+      "fahrenheit": -94
+    },
+    {
+      "celsius": 470.0,
+      "fahrenheit": 878
+    },
+    {
+      "celsius": 373.89,
+      "fahrenheit": 705
+    },
+    {
+      "celsius": -545.56,
+      "fahrenheit": -950
+    },
+    {
+      "celsius": -178.89,
+      "fahrenheit": -290
+    },
+    {
+      "celsius": -76.11,
+      "fahrenheit": -105
+    },
+    {
+      "celsius": 511.11,
+      "fahrenheit": 952
+    },
+    {
+      "celsius": -315.56,
+      "fahrenheit": -536
+    },
+    {
+      "celsius": -91.11,
+      "fahrenheit": -132
+    },
+    {
+      "celsius": 144.44,
+      "fahrenheit": 292
+    },
+    {
+      "celsius": 480.0,
+      "fahrenheit": 896
+    },
+    {
+      "celsius": -308.33,
+      "fahrenheit": -523
+    },
+    {
+      "celsius": 76.11,
+      "fahrenheit": 169
+    },
+    {
+      "celsius": -540.56,
+      "fahrenheit": -941
+    },
+    {
+      "celsius": 441.11,
+      "fahrenheit": 826
+    },
+    {
+      "celsius": -547.78,
+      "fahrenheit": -954
+    },
+    {
+      "celsius": -462.78,
+      "fahrenheit": -801
+    },
+    {
+      "celsius": -273.33,
+      "fahrenheit": -460
+    },
+    {
+      "celsius": 153.33,
+      "fahrenheit": 308
+    },
+    {
+      "celsius": 471.11,
+      "fahrenheit": 880
+    },
+    {
+      "celsius": -95.56,
+      "fahrenheit": -140
+    },
+    {
+      "celsius": -31.11,
+      "fahrenheit": -24
+    },
+    {
+      "celsius": -314.44,
+      "fahrenheit": -534
+    },
+    {
+      "celsius": 264.44,
+      "fahrenheit": 508
+    },
+    {
+      "celsius": -170.0,
+      "fahrenheit": -274
+    },
+    {
+      "celsius": -541.11,
+      "fahrenheit": -942
+    },
+    {
+      "celsius": -145.0,
+      "fahrenheit": -229
+    },
+    {
+      "celsius": 184.44,
+      "fahrenheit": 364
+    },
+    {
+      "celsius": 349.44,
+      "fahrenheit": 661
+    },
+    {
+      "celsius": 375.56,
+      "fahrenheit": 708
+    },
+    {
+      "celsius": -16.11,
+      "fahrenheit": 3
+    },
+    {
+      "celsius": 419.44,
+      "fahrenheit": 787
+    },
+    {
+      "celsius": -358.33,
+      "fahrenheit": -613
+    },
+    {
+      "celsius": -143.89,
+      "fahrenheit": -227
+    },
+    {
+      "celsius": 281.11,
+      "fahrenheit": 538
+    },
+    {
+      "celsius": -472.78,
+      "fahrenheit": -819
+    },
+    {
+      "celsius": -443.89,
+      "fahrenheit": -767
+    },
+    {
+      "celsius": -149.44,
+      "fahrenheit": -237
+    },
+    {
+      "celsius": -188.89,
+      "fahrenheit": -308
+    },
+    {
+      "celsius": 326.67,
+      "fahrenheit": 620
+    },
+    {
+      "celsius": 244.44,
+      "fahrenheit": 472
+    },
+    {
+      "celsius": -45.56,
+      "fahrenheit": -50
+    },
+    {
+      "celsius": 201.11,
+      "fahrenheit": 394
+    },
+    {
+      "celsius": 241.11,
+      "fahrenheit": 466
+    },
+    {
+      "celsius": -66.67,
+      "fahrenheit": -88
+    },
+    {
+      "celsius": -542.22,
+      "fahrenheit": -944
+    },
+    {
+      "celsius": -113.89,
+      "fahrenheit": -173
+    },
+    {
+      "celsius": -175.56,
+      "fahrenheit": -284
+    },
+    {
+      "celsius": -521.67,
+      "fahrenheit": -907
+    },
+    {
+      "celsius": 479.44,
+      "fahrenheit": 895
+    },
+    {
+      "celsius": -218.33,
+      "fahrenheit": -361
+    },
+    {
+      "celsius": -206.11,
+      "fahrenheit": -339
+    },
+    {
+      "celsius": 4.44,
+      "fahrenheit": 40
+    },
+    {
+      "celsius": -236.67,
+      "fahrenheit": -394
+    },
+    {
+      "celsius": 83.89,
+      "fahrenheit": 183
+    },
+    {
+      "celsius": 437.22,
+      "fahrenheit": 819
+    },
+    {
+      "celsius": -121.11,
+      "fahrenheit": -186
+    },
+    {
+      "celsius": 235.56,
+      "fahrenheit": 456
+    },
+    {
+      "celsius": -395.56,
+      "fahrenheit": -680
+    },
+    {
+      "celsius": -301.11,
+      "fahrenheit": -510
+    },
+    {
+      "celsius": -243.33,
+      "fahrenheit": -406
+    },
+    {
+      "celsius": -36.11,
+      "fahrenheit": -33
+    },
+    {
+      "celsius": -558.33,
+      "fahrenheit": -973
+    },
+    {
+      "celsius": 272.78,
+      "fahrenheit": 523
+    },
+    {
+      "celsius": -255.56,
+      "fahrenheit": -428
+    },
+    {
+      "celsius": 278.33,
+      "fahrenheit": 533
+    },
+    {
+      "celsius": 504.44,
+      "fahrenheit": 940
+    },
+    {
+      "celsius": 163.89,
+      "fahrenheit": 327
+    },
+    {
+      "celsius": 424.44,
+      "fahrenheit": 796
+    },
+    {
+      "celsius": -118.33,
+      "fahrenheit": -181
+    },
+    {
+      "celsius": 471.67,
+      "fahrenheit": 881
+    },
+    {
+      "celsius": 320.56,
+      "fahrenheit": 609
+    },
+    {
+      "celsius": 142.22,
+      "fahrenheit": 288
+    },
+    {
+      "celsius": 239.44,
+      "fahrenheit": 463
+    },
+    {
+      "celsius": 523.89,
+      "fahrenheit": 975
+    },
+    {
+      "celsius": -442.22,
+      "fahrenheit": -764
+    },
+    {
+      "celsius": 359.44,
+      "fahrenheit": 679
+    },
+    {
+      "celsius": -307.78,
+      "fahrenheit": -522
+    },
+    {
+      "celsius": -211.11,
+      "fahrenheit": -348
+    },
+    {
+      "celsius": 461.11,
+      "fahrenheit": 862
+    },
+    {
+      "celsius": -245.0,
+      "fahrenheit": -409
+    },
+    {
+      "celsius": -265.56,
+      "fahrenheit": -446
+    },
+    {
+      "celsius": -503.89,
+      "fahrenheit": -875
+    },
+    {
+      "celsius": 280.56,
+      "fahrenheit": 537
+    },
+    {
+      "celsius": -428.89,
+      "fahrenheit": -740
+    },
+    {
+      "celsius": -551.67,
+      "fahrenheit": -961
+    },
+    {
+      "celsius": 367.78,
+      "fahrenheit": 694
+    },
+    {
+      "celsius": 403.33,
+      "fahrenheit": 758
+    },
+    {
+      "celsius": 315.0,
+      "fahrenheit": 599
+    },
+    {
+      "celsius": 440.0,
+      "fahrenheit": 824
+    },
+    {
+      "celsius": 27.78,
+      "fahrenheit": 82
+    },
+    {
+      "celsius": 317.22,
+      "fahrenheit": 603
+    },
+    {
+      "celsius": -360.56,
+      "fahrenheit": -617
+    },
+    {
+      "celsius": -319.44,
+      "fahrenheit": -543
+    },
+    {
+      "celsius": -519.44,
+      "fahrenheit": -903
+    },
+    {
+      "celsius": -20.56,
+      "fahrenheit": -5
+    },
+    {
+      "celsius": -196.11,
+      "fahrenheit": -321
+    },
+    {
+      "celsius": -553.89,
+      "fahrenheit": -965
+    },
+    {
+      "celsius": -166.11,
+      "fahrenheit": -267
+    },
+    {
+      "celsius": -187.78,
+      "fahrenheit": -306
+    },
+    {
+      "celsius": 293.89,
+      "fahrenheit": 561
+    },
+    {
+      "celsius": 401.11,
+      "fahrenheit": 754
+    },
+    {
+      "celsius": 165.0,
+      "fahrenheit": 329
+    },
+    {
+      "celsius": 335.56,
+      "fahrenheit": 636
+    },
+    {
+      "celsius": -81.67,
+      "fahrenheit": -115
+    },
+    {
+      "celsius": -346.67,
+      "fahrenheit": -592
+    },
+    {
+      "celsius": -325.56,
+      "fahrenheit": -554
+    },
+    {
+      "celsius": 212.78,
+      "fahrenheit": 415
+    },
+    {
+      "celsius": -280.0,
+      "fahrenheit": -472
+    },
+    {
+      "celsius": -84.44,
+      "fahrenheit": -120
+    },
+    {
+      "celsius": 502.22,
+      "fahrenheit": 936
+    },
+    {
+      "celsius": 414.44,
+      "fahrenheit": 778
+    },
+    {
+      "celsius": -53.33,
+      "fahrenheit": -64
+    },
+    {
+      "celsius": -444.44,
+      "fahrenheit": -768
+    },
+    {
+      "celsius": -73.33,
+      "fahrenheit": -100
+    },
+    {
+      "celsius": 453.89,
+      "fahrenheit": 849
+    },
+    {
+      "celsius": 246.67,
+      "fahrenheit": 476
+    },
+    {
+      "celsius": 71.11,
+      "fahrenheit": 160
+    },
+    {
+      "celsius": 277.78,
+      "fahrenheit": 532
+    },
+    {
+      "celsius": 392.22,
+      "fahrenheit": 738
+    },
+    {
+      "celsius": -463.33,
+      "fahrenheit": -802
+    },
+    {
+      "celsius": -530.56,
+      "fahrenheit": -923
+    },
+    {
+      "celsius": 366.11,
+      "fahrenheit": 691
+    },
+    {
+      "celsius": -195.56,
+      "fahrenheit": -320
+    },
+    {
+      "celsius": 116.11,
+      "fahrenheit": 241
+    },
+    {
+      "celsius": -473.33,
+      "fahrenheit": -820
+    },
+    {
+      "celsius": 444.44,
+      "fahrenheit": 832
+    },
+    {
+      "celsius": 343.89,
+      "fahrenheit": 651
+    },
+    {
+      "celsius": 55.56,
+      "fahrenheit": 132
+    },
+    {
+      "celsius": 377.78,
+      "fahrenheit": 712
+    },
+    {
+      "celsius": 155.56,
+      "fahrenheit": 312
+    },
+    {
+      "celsius": -203.89,
+      "fahrenheit": -335
+    },
+    {
+      "celsius": -412.78,
+      "fahrenheit": -711
+    },
+    {
+      "celsius": -83.89,
+      "fahrenheit": -119
+    },
+    {
+      "celsius": 1.67,
+      "fahrenheit": 35
+    },
+    {
+      "celsius": -94.44,
+      "fahrenheit": -138
+    },
+    {
+      "celsius": -230.56,
+      "fahrenheit": -383
+    },
+    {
+      "celsius": -109.44,
+      "fahrenheit": -165
+    },
+    {
+      "celsius": 221.67,
+      "fahrenheit": 431
+    },
+    {
+      "celsius": 27.22,
+      "fahrenheit": 81
+    },
+    {
+      "celsius": 198.89,
+      "fahrenheit": 390
+    },
+    {
+      "celsius": -38.89,
+      "fahrenheit": -38
+    },
+    {
+      "celsius": -479.44,
+      "fahrenheit": -831
+    },
+    {
+      "celsius": -19.44,
+      "fahrenheit": -3
+    },
+    {
+      "celsius": -468.89,
+      "fahrenheit": -812
+    },
+    {
+      "celsius": 16.67,
+      "fahrenheit": 62
+    },
+    {
+      "celsius": -156.67,
+      "fahrenheit": -250
+    },
+    {
+      "celsius": 347.78,
+      "fahrenheit": 658
+    },
+    {
+      "celsius": 195.0,
+      "fahrenheit": 383
+    },
+    {
+      "celsius": -8.89,
+      "fahrenheit": 16
+    },
+    {
+      "celsius": 61.11,
+      "fahrenheit": 142
+    }
+  ]
+}
